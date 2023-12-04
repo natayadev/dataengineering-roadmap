@@ -78,6 +78,8 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 
 ## Procesamiento de Datos
 
+En proceso 😊
+
 ## Cloud
 
 Es útil tener conocimientos de cloud computing. Llegado a este punto, te recomendaría considerar la preparación de certificaciones oficiales. Aunque estos exámenes suelen tener un costo, puedes encontrar recursos de preparación gratuitos y oficiales de los proveedores más conocidos en la industria.
@@ -97,3 +99,4 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
     - [Curso: AWS de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
 
 ## Búsqueda Laboral
+En proceso 😊
