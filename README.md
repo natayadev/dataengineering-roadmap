@@ -100,4 +100,17 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
     - [Curso: AWS de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
 
 ## Búsqueda Laboral
+Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias relacionadas con la búsqueda laboral en el ámbito de sistemas. Más adelante, se agregarán desafíos técnicos y otros recursos vinculados al tema.
+### 🔍 Consejos
+- [Videos: Consejos Laborales para el mundo IT de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwcH3zocNIeDNL6ExUorxa9)
+- [Hilo: Consejos para completar el perfil de LinkedIn de @natayadev](https://twitter.com/natayadev/status/1667477410172882944)
+- [Hilo: Consejos para conseguir un trabajo remoto en IT de @natayadev](https://twitter.com/natayadev/status/1714336919876747318)
+- [Hilo: Cómo crear un CV ordenado y legible de @iamdoomling](https://twitter.com/iamdoomling/status/1410207350418509825)
+- [Hilo: Te dejo estos tips para sobrevivir entrevistas con recursos humanos de @iamdoomling](https://twitter.com/iamdoomling/status/1468294464636653569)
+- [Video: Programar en empresas, startups o freelance ¿Qué es mejor? de @iamdoomling](https://www.youtube.com/watch?v=JyTOzSuh4Ho&ab_channel=ProgramandoconBel)
+- [Video: Terminé el bootcamp de programación ¿Y ahora qué? de @iamdoomling](https://www.youtube.com/watch?v=XDrgvD5Vp9Q&ab_channel=ProgramandoconBel)
+- [Video: Trabajar como contractor desde Argentina de @iamdoomling](https://www.youtube.com/watch?v=2rLfcDI9Oh0&ab_channel=ProgramandoconBel)
+- [Podcast: DevRock de Jonatan Ariste](https://open.spotify.com/show/5uRPZ5r7bRkW29c5AkppXq)
+
+### 🛠️ Desafíos técnicos
 En proceso 😊
