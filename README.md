@@ -57,11 +57,27 @@ La elección del gestor de bases de datos a utilizar queda a tu criterio, aunque
 - [Advanced SQL de Kaggle](https://www.kaggle.com/learn/advanced-sql)
 
 ## Big Data
+Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interesante adquirir conocimientos básicos sobre inteligencia artificial, inteligencia de negocios y análisis de datos sin la necesidad de profundizar demasiado.
+### 🚀 Fundamentos
+- [Lectura: Big Data: ¿Qué es y cómo ayuda a mi negocio? de Salesforce](https://www.salesforce.com/mx/blog/big-data/)
+- [Certificación: Diseña y programa soluciones IoT con el uso de Big Data de Universidad del Rosario](https://www.edx.org/es/certificates/professional-certificate/urosariox-internet-de-las-cosas-iot-big-data-y-sus-aplicaciones?index=spanish_product&queryID=b0edf1baa13ad200be83166c876cea13&position=1&results_level=second-level-results&term=big+data&objectID=program-04e59d90-d7a3-48bb-a1f6-603982989153&campaign=Internet+de+las+cosas+%28IoT%29%2C+Big+Data+y+sus+aplicaciones&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fes%2Fsearch)
+- [Certificación: Big Data de University of California San Diego](https://www.coursera.org/specializations/big-data)
+### 📊 Analítica (opcional)
+- [Certificación: Fundamentos profesionales del análisis de datos, de Microsoft y LinkedIn](https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin?src=direct%2Fnone&veh=direct%2Fnone)
+- [Certificación: Certificado profesional de Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics#courses)
+- [Certificación: Certificado profesional de Analista de datos de IBM](https://www.coursera.org/professional-certificates/ibm-data-analyst)
+- [Curso: Análisis de datos con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+- [Video: Storytelling: ¿Cómo convertir tu contenido en una historia? de Coderhouse](https://www.youtube.com/watch?v=pPHRb1dVRDE&ab_channel=Coderhouse)
+### 🤖 Inteligencia artificial (opcional)
+- [Curso: Machine Learning con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+- [Videos: Aprende Inteligencia Artificial de Dot CSV](https://www.youtube.com/playlist?list=PL-Ogd76BhmcC_E2RjgIIJZd1DQdYHcVf0)
+- [Video: Cómo usar ChatGPT en ingeniería de datos de Datalytics](https://www.youtube.com/watch?v=cg9VGCqLe9U&ab_channel=Datalytics)
+### 📈 Inteligencia de negocios (opcional)
+- [Curso: Google Business Intelligence Certificate subtitulado de Google Career](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6r3YwRBuSE7xIMYAiN2Bl85)
+- [Curso: ¡Business Intelligence para Todos! de PEALCALA](https://www.youtube.com/playlist?list=PLCpKRQB2yv13cmUkcVlxVWA3md3uE9u3N)
 
 ## Procesamiento de Datos
 
 ## Cloud
 
 ## Búsqueda Laboral
-
-Opcional: estadística, inteligencia de negocios, inteligencia artificial y análisis de datos.
