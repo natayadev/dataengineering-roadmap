@@ -80,4 +80,20 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 
 ## Cloud
 
+Es útil tener conocimientos de cloud computing. Llegado a este punto, te recomendaría considerar la preparación de certificaciones oficiales. Aunque estos exámenes suelen tener un costo, puedes encontrar recursos de preparación gratuitos y oficiales de los proveedores más conocidos en la industria.
+
+### ☁️ Fundamentos de la nube
+
+- [Video: Fundamentos de Cloud Computing de Datahack](https://www.youtube.com/watch?v=ck9qignm_uY&ab_channel=Datahack)
+- [Lectura: Descubre las ventajas y desventajas de la nube de Platzi](https://platzi.com/blog/ventajas-y-desventajas-de-la-nube-guia-completa/)
+- [Lectura: Arquitectura para Big Data en Cloud de Platzi](https://platzi.com/blog/arquitectura-para-big-data-cloud/)
+
+### 📜 Certificaciones oficiales
+
+- [Ingeniería de datos de Google Cloud](https://www.cloudskillsboost.google/paths/16?hl=es-419)
+- [Ingeniería de datos de Microsoft Azure](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-203/)
+    - [Curso: Azure de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5KdJXw7Z3TZMgKD90guixl)
+- Ingeniería de datos de AWS (pronto)
+    - [Curso: AWS de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
+
 ## Búsqueda Laboral
