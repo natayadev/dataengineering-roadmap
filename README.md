@@ -72,6 +72,7 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 - [Curso: Machine Learning con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - [Videos: Aprende Inteligencia Artificial de Dot CSV](https://www.youtube.com/playlist?list=PL-Ogd76BhmcC_E2RjgIIJZd1DQdYHcVf0)
 - [Video: Cómo usar ChatGPT en ingeniería de datos de Datalytics](https://www.youtube.com/watch?v=cg9VGCqLe9U&ab_channel=Datalytics)
+- [Curso en edx.org de la universidad de columbia nivel medio](https://learning.edx.org/course/course-v1:ColumbiaX+CSMM.101x+1T2017/home)
 ### 📈 Inteligencia de negocios (opcional)
 - [Curso: Google Business Intelligence Certificate subtitulado de Google Career](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6r3YwRBuSE7xIMYAiN2Bl85)
 - [Curso: ¡Business Intelligence para Todos! de PEALCALA](https://www.youtube.com/playlist?list=PLCpKRQB2yv13cmUkcVlxVWA3md3uE9u3N)
