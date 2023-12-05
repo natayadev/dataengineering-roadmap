@@ -113,4 +113,6 @@ Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias
 - [Podcast: DevRock de Jonatan Ariste](https://open.spotify.com/show/5uRPZ5r7bRkW29c5AkppXq)
 
 ### 🛠️ Desafíos técnicos
-En proceso 😊
+- [Repositorio: Desafíos de código de la comunidad Mouredev](https://github.com/mouredev/Code-Challenges)
+
+    En proceso 😊
