@@ -1,5 +1,6 @@
-# Roadmap 2024 - Data engineering en español
-Un repositorio más con conceptos básicos, desafíos técnicos y recursos sobre ingeniería de datos en español 🧙✨
+<h1 align="center"> Roadmap 2024 - Data engineering en español</h1>
+<p align="center"> Un repositorio más con conceptos básicos, desafíos técnicos y recursos sobre ingeniería de datos en español 🧙✨</p>
+<p align="center"> ¿Te gustaría aportar al repositorio? Visitá la <a href="CONTRIBUTING.md">guía de contribución</a> </p>
 
 *Nota: la siguiente ruta de aprendizaje está diseñada a **criterio personal** con la idea de facilitar el estudio de aquellos interesados en la ingeniería de datos con material libre, gratuito y en español que encontré en internet. **No es** una guía definitiva ni un curso, **es** una lista de recursos que puede ser mejorada con el tiempo con contribuciones de la comunidad.*
 
@@ -115,4 +116,12 @@ Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias
 
 ### 🛠️ Desafíos técnicos
 - [Repositorio: Desafíos de código de la comunidad de MoureDev](https://github.com/mouredev/Code-Challenges)
+  
 En proceso 😊
+
+---
+**Si te resultó útil este repositorio, regalame una estrella ⭐**
+
+![Static Badge](https://img.shields.io/badge/cafecito-violet?style=social&logo=buy%20me%20a%20coffee&link=https%3A%2F%2Fcafecito.app%2Fnatayafs)
+![Static Badge](https://img.shields.io/badge/buy_me_a_coffee-violet?style=social&logo=buy%20me%20a%20coffee&link=https%3A%2F%2Fwww.buymeacoffee.com%2Fnatayafs)
+
