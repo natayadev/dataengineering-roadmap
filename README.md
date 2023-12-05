@@ -103,6 +103,7 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
 Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias relacionadas con la búsqueda laboral en el ámbito de sistemas. Más adelante, se agregarán desafíos técnicos y otros recursos vinculados al tema.
 ### 🔍 Consejos
 - [Videos: Consejos Laborales para el mundo IT de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwcH3zocNIeDNL6ExUorxa9)
+- [Videos: Esenciales para comenzar en el mundo de los sistemas de Maxi Programa](https://www.youtube.com/playlist?list=PLQRFzsIQFmxq6DUftRLXkOE5hiEej2EoJ)
 - [Hilo: Consejos para completar el perfil de LinkedIn de @natayadev](https://twitter.com/natayadev/status/1667477410172882944)
 - [Hilo: Consejos para conseguir un trabajo remoto en IT de @natayadev](https://twitter.com/natayadev/status/1714336919876747318)
 - [Hilo: Cómo crear un CV ordenado y legible de @iamdoomling](https://twitter.com/iamdoomling/status/1410207350418509825)
@@ -113,6 +114,5 @@ Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias
 - [Podcast: DevRock de Jonatan Ariste](https://open.spotify.com/show/5uRPZ5r7bRkW29c5AkppXq)
 
 ### 🛠️ Desafíos técnicos
-- [Repositorio: Desafíos de código de la comunidad Mouredev](https://github.com/mouredev/Code-Challenges)
-
-    En proceso 😊
+- [Repositorio: Desafíos de código de la comunidad de MoureDev](https://github.com/mouredev/Code-Challenges)
+En proceso 😊
