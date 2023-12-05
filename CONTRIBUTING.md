@@ -2,7 +2,7 @@
 
 ¡Gracias por tu interés en contribuir a al proyecto! Tu colaboración es muy valorada. A continuación, te proporcionaré una guía para contribuir:
 
-## Cómo Contribuir
+## 🤔 Cómo Contribuir
 
 1. Asegúrate de tener una cuenta de GitHub. Si no la tenés, podés crear una por [acá](https://github.com/).
 2. Hacé un fork de este repositorio a tu cuenta de GitHub.
