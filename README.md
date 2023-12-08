@@ -96,8 +96,10 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
 ### 📜 Certificaciones oficiales
 
 - [Ingeniería de datos de Google Cloud](https://www.cloudskillsboost.google/paths/16?hl=es-419)
+    - [Curso: Google Cloud (GCP) de Aprender Big Data](https://www.youtube.com/playlist?list=PLGnDOd349NCNtUCRdRbtMRKl0V2gPPr5G)
 - [Ingeniería de datos de Microsoft Azure](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-203/)
     - [Curso: Azure de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5KdJXw7Z3TZMgKD90guixl)
+    - [Curso: Certificaciones de Azure de Aprender Big Data](https://www.youtube.com/playlist?list=PLGnDOd349NCNxtsQpeWtIyD7lY1IrYw-n)
 - Ingeniería de datos de AWS (pronto)
     - [Curso: AWS de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
 
