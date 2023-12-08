@@ -63,6 +63,7 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 - [Lectura: Big Data: ¿Qué es y cómo ayuda a mi negocio? de Salesforce](https://www.salesforce.com/mx/blog/big-data/)
 - [Certificación: Diseña y programa soluciones IoT con el uso de Big Data de Universidad del Rosario](https://www.edx.org/es/certificates/professional-certificate/urosariox-internet-de-las-cosas-iot-big-data-y-sus-aplicaciones?index=spanish_product&queryID=b0edf1baa13ad200be83166c876cea13&position=1&results_level=second-level-results&term=big+data&objectID=program-04e59d90-d7a3-48bb-a1f6-603982989153&campaign=Internet+de+las+cosas+%28IoT%29%2C+Big+Data+y+sus+aplicaciones&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fes%2Fsearch)
 - [Certificación: Big Data de University of California San Diego](https://www.coursera.org/specializations/big-data)
+- [Video: Big data y privacidad de Databits](https://www.youtube.com/watch?v=-5kmGbc0RFM&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=18&ab_channel=Databits)
 ### 📊 Analítica (opcional)
 - [Certificación: Fundamentos profesionales del análisis de datos, de Microsoft y LinkedIn](https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin?src=direct%2Fnone&veh=direct%2Fnone)
 - [Certificación: Certificado profesional de Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics#courses)
@@ -80,6 +81,13 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 - [Curso: ¡Business Intelligence para Todos! de PEALCALA](https://www.youtube.com/playlist?list=PLCpKRQB2yv13cmUkcVlxVWA3md3uE9u3N)
 
 ## Procesamiento de Datos
+- [Canal: CodinEric](https://www.youtube.com/@CodinEric)
+- [Canal: Data Engineering LATAM](https://www.youtube.com/@DataEngineeringLatam)
+- [Canal: Datademia](https://www.youtube.com/@datademia)
+- [Canal: Datalytics](https://www.youtube.com/@datalytics.mejorcondatos)
+- [Video: Ingeniería de datos: viaje al corazón de los proyectos de datos de RockingData](https://www.youtube.com/watch?v=UPPOEFUrvFU&list=PLwKA-LJRe79hxt69x6GVqTofHUetiB9vQ&index=8&ab_channel=RockingData)
+- [Video: Construye ETL en batch y streaming con Spark de Databits](https://www.youtube.com/watch?v=hvwuMCPSB3M&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=13&ab_channel=Databits)
+- [Video: ¿Cómo convertirte en un verdadero Ingeniero de Datos? de Databits](https://www.youtube.com/watch?v=OiWR3pRyvgE&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=4&ab_channel=Databits)
 
 En proceso 😊
 
