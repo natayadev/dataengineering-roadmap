@@ -71,6 +71,7 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 - [Video: Storytelling: ¿Cómo convertir tu contenido en una historia? de Coderhouse](https://www.youtube.com/watch?v=pPHRb1dVRDE&ab_channel=Coderhouse)
 ### 🤖 Inteligencia artificial (opcional)
 - [Curso: Machine Learning con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+- [Canal: AprendeIA con Ligdi Gonzalez](https://www.youtube.com/@aprendeIA/playlists)
 - [Videos: Aprende Inteligencia Artificial de Dot CSV](https://www.youtube.com/playlist?list=PL-Ogd76BhmcC_E2RjgIIJZd1DQdYHcVf0)
 - [Video: Cómo usar ChatGPT en ingeniería de datos de Datalytics](https://www.youtube.com/watch?v=cg9VGCqLe9U&ab_channel=Datalytics)
 - [Curso: Inteligencia Artificial subtitulado de Universidad de Columbia](https://www.edx.org/es/learn/artificial-intelligence/columbia-university-artificial-intelligence-ai)
