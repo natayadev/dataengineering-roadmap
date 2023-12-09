@@ -28,6 +28,7 @@ Recomiendo iniciar con Python debido a su curva de aprendizaje amigable y su pre
 - [Curso: Pandas de Kaggle](https://www.kaggle.com/learn/pandas)
 - [Video: Principios de la Programación Orientada a Objetos de BettaTech](https://www.youtube.com/watch?v=tTPeP5dVuA4&ab_channel=BettaTech)
 - [Video: Programación Orientada a Objetos explicada con Minecraft de Absolute](https://www.youtube.com/playlist?list=PL-9YbO84eUcfKPIbzI6-ledKGY_6_Fvcj)
+- [Curso: Julia para gente con prisa de Miguel Raz](https://github.com/miguelraz/JuliaParaGenteConPrisa)
 
 ### 🔄 Control de versiones con Git
 
