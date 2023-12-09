@@ -22,7 +22,11 @@
 5. Agregá el recurso siguiendo el formato:
     
     ```markdown
-    - [Libro: "Aprender Markdown" de Juan Pérez](https://ejemplo.com/libro-markdown)
+    Para recursos en español:
+    - [Libro: "Aprender Markdown" de Juan Pérez](<https://ejemplo.com/libro-markdown>)
+    
+    Para recursos subtitulados al español:
+    - [Libro: "Understanding Markdown" subtitulado de Joan Smith](<https://example.com/book-markdown>)
     ```
     
 6. Realizá un commit con un mensaje descriptivo:
