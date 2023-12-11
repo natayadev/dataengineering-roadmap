@@ -1,10 +1,44 @@
-<h1 align="center"> Roadmap 2024 - Data engineering en español</h1>
-<p align="center"> Un repositorio más con conceptos básicos, desafíos técnicos y recursos sobre ingeniería de datos en español 🧙✨</p>
-<p align="center"> ¿Te gustaría aportar al repositorio? Visitá la <a href="CONTRIBUTING.md">guía de contribución</a> </p>
+<div align="center">
+  <h1>Data Engineering - Roadmap 2024</h1>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" />
+</div>
 
-*Nota: la siguiente ruta de aprendizaje está diseñada a **criterio personal** con la idea de facilitar el estudio de aquellos interesados en la ingeniería de datos con material libre, gratuito y en español que encontré en internet. **No es** una guía definitiva ni un curso, **es** una lista de recursos que puede ser mejorada con el tiempo con contribuciones de la comunidad.*
+<br>
 
-[📚 Libros de ingeniería de datos en inglés](books)
+<div align="center">
+  <img src="https://img.shields.io/github/watchers/natayadev/dataengineering-roadmap.svg" />
+  <img src="https://img.shields.io/github/stars/natayadev/dataengineering-roadmap.svg" />
+  <img src="https://img.shields.io/github/forks/natayadev/dataengineering-roadmap.svg" />
+</div>
+
+---
+
+<div align="center">
+  <p> Un repositorio más con conceptos básicos, desafíos técnicos y recursos sobre ingeniería de datos en español 🧙✨.</p>
+  <p>
+    <b>¿Te gustaría aportar al repositorio?</b>
+    Visitá la <a href="CONTRIBUTING.md">guía de contribución</a>
+  </p>
+</div>
+
+---
+
+> :memo: **Nota**: la siguiente ruta de aprendizaje está diseñada a **criterio personal** con la idea de facilitar el estudio de
+aquellos interesados en la **ingeniería de datos** con material libre, gratuito y en español que encontré en internet. **No es** una
+guía definitiva ni un curso; **es**, en cambio, una lista de recursos que puede ser mejorada con contribuciones de la comunidad.
+
+## 📚 Libros
+  - [📚 Libros de ingeniería de datos en inglés](books)
+
 ## Programación
 ### 🚀 Fundamentos
 
@@ -129,7 +163,7 @@ Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias
 
 ### 🛠️ Desafíos técnicos
 - [Repositorio: Desafíos de código de la comunidad de MoureDev](https://github.com/mouredev/Code-Challenges)
-  
+
 En proceso 😊
 
 ---
