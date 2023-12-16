@@ -47,21 +47,34 @@ El aprendizaje sobre el control de versiones no solo es valioso al trabajar en e
 - IDE: [VSCode](https://code.visualstudio.com/) o [Spyder](https://www.spyder-ide.org/)
 
 ## Bases de datos
-### 📊 Fundamentos y SQL
-En esta instancia toca aprender sobre las bases de datos, sus conceptos fundamentales y el lenguaje SQL para la manipulación de datos.
-La elección del gestor de bases de datos a utilizar queda a tu criterio, aunque personalmente recomiendo [PostgreSQL](https://www.postgresql.org/) para datos estructurados y [MongoDB](https://www.mongodb.com/es) para datos no estructurados. Sin embargo, existen muchas otras opciones: MySQL, SQLite, entre otros.
+### 🚀 Fundamentos
+En esta instancia toca aprender sobre las bases de datos. La elección del gestor de bases de datos a utilizar queda a tu criterio, aunque personalmente recomiendo [PostgreSQL](https://www.postgresql.org/) para datos estructurados y [MongoDB](https://www.mongodb.com/es) para datos no estructurados. Sin embargo, existen muchas otras opciones: MySQL, SQLite, entre otros.
+
 - [Curso: Curso Introducción a las bases de datos de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwcW3dkmUqJq7B-SXHyCglf)
-- [Curso: SQL de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6ybDbpk4pmk5BCxluqz5cS)
+- [Lectura: Diferencias entre DDL, DML y DCL de TodoPostgreSQL](https://www.todopostgresql.com/diferencias-entre-ddl-dml-y-dcl/)
 - [Video: Procedimientos almacenados #1 de Héctor de León](https://youtu.be/NCcc2aISGtE?si=SZpgTmkSRmYzzmRd)
 - [Video: Procedimientos almacenados #2 de Héctor de León](https://youtu.be/B9yw925kdiw?si=WwndA4YEmzKS3MsN)
-- [Video: ¿Cuándo utilizar SQL y cuando NoSQL? de Héctor de León](https://www.youtube.com/watch?v=EwJlyyq2urE&list=PLWYKfSbdsjJi6lb_dZ-UrGwRCJxmjhapl&index=9&ab_channel=hdeleon.net)
-- [Video: ¿Cómo se modelan las bases de datos NoSQL? de HolaMundo](https://youtu.be/Zdlude8l8w4?si=gfIqq3gknpT4nDT4)
+- [Video: Curso de MongoDB de Fazt](https://www.youtube.com/watch?v=lWMemPN9t6Q&ab_channel=Fazt)
+  
+### 📊 SQL
+También aprenderás SQL, un lenguaje de consulta para gestionar y manipular las bases de datos relacionales.
+- [Curso: SQL de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6ybDbpk4pmk5BCxluqz5cS)
 - [Intro to SQL de Kaggle](https://www.kaggle.com/learn/intro-to-sql)
 - [Advanced SQL de Kaggle](https://www.kaggle.com/learn/advanced-sql)
+
+### 📐 Diseño
+Ahora seguimos con conceptos más avanzados que nos servirán para diseñar bases de datos, datalake, datawareouses, esquemas, entre otros.
+- [Video: ¿Cuándo utilizar SQL y cuando NoSQL? de Héctor de León](https://www.youtube.com/watch?v=EwJlyyq2urE&list=PLWYKfSbdsjJi6lb_dZ-UrGwRCJxmjhapl&index=9&ab_channel=hdeleon.net)
+- [Video: ¿Cómo se modelan las bases de datos NoSQL? de HolaMundo](https://youtu.be/Zdlude8l8w4?si=gfIqq3gknpT4nDT4)
+- [Lectura: Bases de datos orientadas a grafos de Oracle](https://www.oracle.com/ar/autonomous-database/what-is-graph-database/)
+- [Video: Bases de Datos de Grafos, Fundamentos y Práctica de Datahack](https://www.youtube.com/watch?v=gDiZQ60LkpE&ab_channel=Datahack)
+  
+En proceso 😊
 
 ## Big Data
 Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interesante adquirir conocimientos básicos sobre inteligencia artificial, inteligencia de negocios y análisis de datos sin la necesidad de profundizar demasiado.
 ### 🚀 Fundamentos
+- [Video: Big Data para dummies de Datahack](https://www.youtube.com/watch?v=DabkDUsNfIg&ab_channel=Datahack)
 - [Lectura: Big Data: ¿Qué es y cómo ayuda a mi negocio? de Salesforce](https://www.salesforce.com/mx/blog/big-data/)
 - [Certificación: Diseña y programa soluciones IoT con el uso de Big Data de Universidad del Rosario](https://www.edx.org/es/certificates/professional-certificate/urosariox-internet-de-las-cosas-iot-big-data-y-sus-aplicaciones?index=spanish_product&queryID=b0edf1baa13ad200be83166c876cea13&position=1&results_level=second-level-results&term=big+data&objectID=program-04e59d90-d7a3-48bb-a1f6-603982989153&campaign=Internet+de+las+cosas+%28IoT%29%2C+Big+Data+y+sus+aplicaciones&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fes%2Fsearch)
 - [Certificación: Big Data de University of California San Diego](https://www.coursera.org/specializations/big-data)
@@ -83,15 +96,30 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 - [Curso: ¡Business Intelligence para Todos! de PEALCALA](https://www.youtube.com/playlist?list=PLCpKRQB2yv13cmUkcVlxVWA3md3uE9u3N)
 
 ## Procesamiento de Datos
+En esta sección está el corazón de la ingeniería de datos, veremos que son los data pipelines, qué es un ETL, orquestadores, y más.
 - [Canal: CodinEric](https://www.youtube.com/@CodinEric)
 - [Canal: Data Engineering LATAM](https://www.youtube.com/@DataEngineeringLatam)
 - [Canal: Datademia](https://www.youtube.com/@datademia)
 - [Canal: Datalytics](https://www.youtube.com/@datalytics.mejorcondatos)
+
+### 🔍 ETL y Data Pipelines
+
 - [Video: Ingeniería de datos: viaje al corazón de los proyectos de datos de RockingData](https://www.youtube.com/watch?v=UPPOEFUrvFU&list=PLwKA-LJRe79hxt69x6GVqTofHUetiB9vQ&index=8&ab_channel=RockingData)
-- [Video: Construye ETL en batch y streaming con Spark de Databits](https://www.youtube.com/watch?v=hvwuMCPSB3M&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=13&ab_channel=Databits)
 - [Video: ¿Cómo convertirte en un verdadero Ingeniero de Datos? de Databits](https://www.youtube.com/watch?v=OiWR3pRyvgE&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=4&ab_channel=Databits)
 
-En proceso 😊
+### 🎭 Orquestadores
+
+- [Curso: Airflow de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6tjwp2xMiucO53XsvaG48L)
+- [Videos: Luigi subtitulado de Seattle Data Guy](https://www.youtube.com/playlist?list=PLXRKPZRrlvE4c5fkoYYC34MLTwZ7ZQoje)
+- [Lectura: Azure Data Factory de Microsoft](https://learn.microsoft.com/es-es/azure/data-factory/introduction)
+
+### 🏰 Arquitecturas
+
+- [Lectura: Diferencias clave entre el OLAP y el OLTP de AWS](https://aws.amazon.com/es/compare/the-difference-between-olap-and-oltp/)
+- [Video: Construye ETL en batch y streaming con Spark de Databits](https://www.youtube.com/watch?v=hvwuMCPSB3M&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=13&ab_channel=Databits)
+- [Lectura: Comparación de contenedores y máquinas virtuales de Atlassian](https://www.atlassian.com/es/microservices/cloud-computing/containers-vs-vms)
+- [Lectura: ¿Qué es un sistema distribuido? de Atlassian](https://www.atlassian.com/es/microservices/microservices-architecture/distributed-architecture)
+- [Curso: Spark de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6CH3sQS6zhuIVKoPllmXiB)
 
 ## Cloud
 
