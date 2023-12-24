@@ -5,6 +5,9 @@
 *Nota: la siguiente ruta de aprendizaje está diseñada a **criterio personal** con la idea de facilitar el estudio de aquellos interesados en la ingeniería de datos con material libre, gratuito y en español que encontré en internet. **No es** una guía definitiva ni un curso, **es** una lista de recursos que puede ser mejorada con el tiempo con contribuciones de la comunidad.*
 
 [📚 Libros de ingeniería de datos en inglés](books)
+
+<img align="center" alt="Roadmap illustration" src="./src/ROADMAP.png" />
+
 ## Programación
 ### 🚀 Fundamentos
 
