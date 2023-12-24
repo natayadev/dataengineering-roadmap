@@ -14,24 +14,24 @@
 Comenzamos con la comprensión de los conceptos fundamentales de programación y lógica. Esta sección puede ser desarrollada simultáneamente con el aprendizaje del lenguaje de programación que elijan.
 
 - [Curso: Programación Básica de Platzi](https://platzi.com/cursos/programacion-basica/)
-- [Curso: Introducción a los Algoritmos y la Programación de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbzRVxjkstjLmmn9enb0x3zi)
-- [Curso: Ejercicios de Pseudocódigo de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwHMRObsvtRSb6sA43msUJt)
-- [Curso: Linea de Comandos de Datademia](https://www.youtube.com/playlist?list=PLlhVpWerA0KzfxmP5CRFvmnEkRFldCUqI)
-- [Curso: Bash scripting de Fazt](https://www.youtube.com/playlist?list=PLL0TiOXBeDai--LxFT1tro1qzO4Ayg5p_)
+- [Videos: Introducción a los Algoritmos y la Programación de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbzRVxjkstjLmmn9enb0x3zi)
+- [Videos: Ejercicios de Pseudocódigo de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwHMRObsvtRSb6sA43msUJt)
+- [Videos: Linea de Comandos de Datademia](https://www.youtube.com/playlist?list=PLlhVpWerA0KzfxmP5CRFvmnEkRFldCUqI)
+- [Videos: Bash scripting de Fazt](https://www.youtube.com/playlist?list=PLL0TiOXBeDai--LxFT1tro1qzO4Ayg5p_)
 - [Lectura: Introducción a la línea de comandos de Linux y el shell de Microsoft Learn](https://learn.microsoft.com/es-es/training/paths/shell/)
 
 ### 🐍 Lenguaje de programación
 
 Recomiendo iniciar con Python debido a su curva de aprendizaje amigable y su prevalencia en la industria actual. No obstante, es importante destacar que el procesamiento de datos también puede realizarse con R, Java, Scala, Julia, entre otros.
 
+- [Videos: Python desde 0 de PildorasInformáticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
 - [Curso: Computación científica con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 - [Curso: Álgebra universitaria con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/college-algebra-with-python/)
 - [Curso: Harvard CS50’s Introducción a la programación con Python subtítulado de FreeCodeCamp](https://www.youtube.com/watch?v=nLRL_NcnK-4&ab_channel=freeCodeCamp.org)
 - [Curso: Python intermedio subtitulado de FreeCodeCamp](https://www.youtube.com/watch?v=HGOBQPFzWKo&ab_channel=freeCodeCamp.org)
-- [Curso: Python desde 0 de PildorasInformáticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS)
 - [Curso: Pandas de Kaggle](https://www.kaggle.com/learn/pandas)
 - [Video: Principios de la Programación Orientada a Objetos de BettaTech](https://www.youtube.com/watch?v=tTPeP5dVuA4&ab_channel=BettaTech)
-- [Video: Programación Orientada a Objetos explicada con Minecraft de Absolute](https://www.youtube.com/playlist?list=PL-9YbO84eUcfKPIbzI6-ledKGY_6_Fvcj)
+- [Videos: Programación Orientada a Objetos explicada con Minecraft de Absolute](https://www.youtube.com/playlist?list=PL-9YbO84eUcfKPIbzI6-ledKGY_6_Fvcj)
 - [Curso: Julia para gente con prisa de Miguel Raz](https://github.com/miguelraz/JuliaParaGenteConPrisa)
 
 ### 🔄 Control de versiones con Git
@@ -40,7 +40,7 @@ El aprendizaje sobre el control de versiones no solo es valioso al trabajar en e
 
 - [Video: ¿Qué es el control de versiones y porque es tan importante para programar? de Datademia](https://www.youtube.com/watch?v=8HSjmgeJxqg&ab_channel=Datademia)
 - [Curso: Git y Github de MoureDev](https://www.youtube.com/watch?v=3GymExBkKjE&ab_channel=MoureDevbyBraisMoure)
-- [Curso: Git y Github de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqby-qh4raiKfYyb4T7WyHsfW)
+- [Videos: Git y Github de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqby-qh4raiKfYyb4T7WyHsfW)
 - [Lectura: Usa Git correctamente de Attlasian](https://www.atlassian.com/es/git)
 - [Juego: Learn Git Branching](https://learngitbranching.js.org/?locale=es_AR)
 
@@ -51,9 +51,9 @@ El aprendizaje sobre el control de versiones no solo es valioso al trabajar en e
 
 ## Bases de datos
 ### 🚀 Fundamentos
-En esta instancia toca aprender sobre las bases de datos. La elección del gestor de bases de datos a utilizar queda a tu criterio, aunque personalmente recomiendo [PostgreSQL](https://www.postgresql.org/) para datos estructurados y [MongoDB](https://www.mongodb.com/es) para datos no estructurados. Sin embargo, existen muchas otras opciones: MySQL, SQLite, entre otros.
+En esta instancia toca aprender sobre las bases de datos. La elección del gestor de bases de datos a utilizar queda a tu criterio, aunque personalmente recomiendo [PostgreSQL](https://www.postgresql.org/) para datos estructurados y [MongoDB](https://www.mongodb.com/es) para datos no estructurados. Sin embargo, existen muchas otras opciones: MySQL, SQLite y demás.
 
-- [Curso: Curso Introducción a las bases de datos de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwcW3dkmUqJq7B-SXHyCglf)
+- [Videos: Introducción a las bases de datos de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwcW3dkmUqJq7B-SXHyCglf)
 - [Lectura: Diferencias entre DDL, DML y DCL de TodoPostgreSQL](https://www.todopostgresql.com/diferencias-entre-ddl-dml-y-dcl/)
 - [Video: Procedimientos almacenados #1 de Héctor de León](https://youtu.be/NCcc2aISGtE?si=SZpgTmkSRmYzzmRd)
 - [Video: Procedimientos almacenados #2 de Héctor de León](https://youtu.be/B9yw925kdiw?si=WwndA4YEmzKS3MsN)
@@ -61,19 +61,17 @@ En esta instancia toca aprender sobre las bases de datos. La elección del gesto
   
 ### 📊 SQL
 También aprenderás SQL, un lenguaje de consulta para gestionar y manipular las bases de datos relacionales.
-- [Curso: SQL de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6ybDbpk4pmk5BCxluqz5cS)
+- [Videos: SQL de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6ybDbpk4pmk5BCxluqz5cS)
 - [Intro to SQL de Kaggle](https://www.kaggle.com/learn/intro-to-sql)
 - [Advanced SQL de Kaggle](https://www.kaggle.com/learn/advanced-sql)
 
 ### 📐 Diseño
-Ahora seguimos con conceptos más avanzados que nos servirán para diseñar bases de datos, datalake, datawareouses, esquemas, entre otros.
+Ahora seguimos con conceptos más avanzados que nos servirán para diseñar bases de datos, datalake, datawarehouses, esquemas, etcétera.
 - [Video: ¿Cuándo utilizar SQL y cuando NoSQL? de Héctor de León](https://www.youtube.com/watch?v=EwJlyyq2urE&list=PLWYKfSbdsjJi6lb_dZ-UrGwRCJxmjhapl&index=9&ab_channel=hdeleon.net)
 - [Video: ¿Cómo se modelan las bases de datos NoSQL? de HolaMundo](https://youtu.be/Zdlude8l8w4?si=gfIqq3gknpT4nDT4)
 - [Lectura: Bases de datos orientadas a grafos de Oracle](https://www.oracle.com/ar/autonomous-database/what-is-graph-database/)
 - [Video: Bases de Datos de Grafos, Fundamentos y Práctica de Datahack](https://www.youtube.com/watch?v=gDiZQ60LkpE&ab_channel=Datahack)
   
-En proceso 😊
-
 ## Big Data
 Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interesante adquirir conocimientos básicos sobre inteligencia artificial, inteligencia de negocios y análisis de datos sin la necesidad de profundizar demasiado.
 ### 🚀 Fundamentos
@@ -95,8 +93,8 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 - [Video: Cómo usar ChatGPT en ingeniería de datos de Datalytics](https://www.youtube.com/watch?v=cg9VGCqLe9U&ab_channel=Datalytics)
 - [Curso: Inteligencia Artificial subtitulado de Universidad de Columbia](https://www.edx.org/es/learn/artificial-intelligence/columbia-university-artificial-intelligence-ai)
 ### 📈 Inteligencia de negocios (opcional)
-- [Curso: Google Business Intelligence Certificate subtitulado de Google Career](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6r3YwRBuSE7xIMYAiN2Bl85)
-- [Curso: ¡Business Intelligence para Todos! de PEALCALA](https://www.youtube.com/playlist?list=PLCpKRQB2yv13cmUkcVlxVWA3md3uE9u3N)
+- [Videos: Google Business Intelligence Certificate subtitulado de Google Career](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6r3YwRBuSE7xIMYAiN2Bl85)
+- [Videos: ¡Business Intelligence para Todos! de PEALCALA](https://www.youtube.com/playlist?list=PLCpKRQB2yv13cmUkcVlxVWA3md3uE9u3N)
 
 ## Procesamiento de Datos
 En esta sección está el corazón de la ingeniería de datos, veremos que son los data pipelines, qué es un ETL, orquestadores, y más.
@@ -112,7 +110,7 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 
 ### 🎭 Orquestadores
 
-- [Curso: Airflow de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6tjwp2xMiucO53XsvaG48L)
+- [Videos: Airflow de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6tjwp2xMiucO53XsvaG48L)
 - [Videos: Luigi subtitulado de Seattle Data Guy](https://www.youtube.com/playlist?list=PLXRKPZRrlvE4c5fkoYYC34MLTwZ7ZQoje)
 - [Lectura: Azure Data Factory de Microsoft](https://learn.microsoft.com/es-es/azure/data-factory/introduction)
 
@@ -122,7 +120,7 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - [Video: Construye ETL en batch y streaming con Spark de Databits](https://www.youtube.com/watch?v=hvwuMCPSB3M&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=13&ab_channel=Databits)
 - [Lectura: Comparación de contenedores y máquinas virtuales de Atlassian](https://www.atlassian.com/es/microservices/cloud-computing/containers-vs-vms)
 - [Lectura: ¿Qué es un sistema distribuido? de Atlassian](https://www.atlassian.com/es/microservices/microservices-architecture/distributed-architecture)
-- [Curso: Spark de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6CH3sQS6zhuIVKoPllmXiB)
+- [Videos: Spark de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6CH3sQS6zhuIVKoPllmXiB)
 - [Video: Infraestructura como código para ingeniería de datos de Spark México](https://www.youtube.com/watch?v=FjB3-RS_s38&ab_channel=SparkMexico)
 
 ## Cloud
@@ -138,12 +136,12 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
 ### 📜 Certificaciones oficiales
 
 - [Ingeniería de datos de Google Cloud](https://www.cloudskillsboost.google/paths/16?hl=es-419)
-    - [Curso: Google Cloud (GCP) de Aprender Big Data](https://www.youtube.com/playlist?list=PLGnDOd349NCNtUCRdRbtMRKl0V2gPPr5G)
+    - [Videos: Google Cloud (GCP) de Aprender Big Data](https://www.youtube.com/playlist?list=PLGnDOd349NCNtUCRdRbtMRKl0V2gPPr5G)
 - [Ingeniería de datos de Microsoft Azure](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-203/)
-    - [Curso: Azure de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5KdJXw7Z3TZMgKD90guixl)
-    - [Curso: Certificaciones de Azure de Aprender Big Data](https://www.youtube.com/playlist?list=PLGnDOd349NCNxtsQpeWtIyD7lY1IrYw-n)
+    - [Videos: Azure de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5KdJXw7Z3TZMgKD90guixl)
+    - [Videos: Certificaciones de Azure de Aprender Big Data](https://www.youtube.com/playlist?list=PLGnDOd349NCNxtsQpeWtIyD7lY1IrYw-n)
 - Ingeniería de datos de AWS (pronto)
-    - [Curso: AWS de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
+    - [Videos: AWS de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
 
 ## Búsqueda Laboral
 Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias relacionadas con la búsqueda laboral en el ámbito de sistemas. Más adelante, se agregarán desafíos técnicos y otros recursos vinculados al tema.
