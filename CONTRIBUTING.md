@@ -1,6 +1,6 @@
 # Contribución al Proyecto
 
-¡Gracias por tu interés en contribuir a al proyecto! Tu colaboración es muy valorada. A continuación, te proporcionaré una guía para contribuir:
+¡Gracias por tu interés en contribuir al proyecto! Tu colaboración es muy valorada. A continuación, te proporcionaré una guía para hacerlo:
 
 ## 🤔 Cómo Contribuir
 
