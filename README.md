@@ -120,6 +120,7 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - [Lectura: Comparación de contenedores y máquinas virtuales de Atlassian](https://www.atlassian.com/es/microservices/cloud-computing/containers-vs-vms)
 - [Lectura: ¿Qué es un sistema distribuido? de Atlassian](https://www.atlassian.com/es/microservices/microservices-architecture/distributed-architecture)
 - [Curso: Spark de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6CH3sQS6zhuIVKoPllmXiB)
+- [Video: Infraestructura como código para ingeniería de datos de Spark México](https://www.youtube.com/watch?v=FjB3-RS_s38&ab_channel=SparkMexico)
 
 ## Cloud
 
@@ -144,6 +145,7 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
 ## Búsqueda Laboral
 Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias relacionadas con la búsqueda laboral en el ámbito de sistemas. Más adelante, se agregarán desafíos técnicos y otros recursos vinculados al tema.
 ### 🔍 Consejos
+- [Video: ¿Cómo obtener tu primer empleo en ingeniería de datos? de Spark México](https://www.youtube.com/watch?v=E3AviR1_Y_c&ab_channel=SparkMexico)
 - [Videos: Consejos Laborales para el mundo IT de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwcH3zocNIeDNL6ExUorxa9)
 - [Videos: Esenciales para comenzar en el mundo de los sistemas de Maxi Programa](https://www.youtube.com/playlist?list=PLQRFzsIQFmxq6DUftRLXkOE5hiEej2EoJ)
 - [Hilo: Consejos para completar el perfil de LinkedIn de @natayadev](https://twitter.com/natayadev/status/1667477410172882944)
