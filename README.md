@@ -119,6 +119,7 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 ### 🎭 Orquestadores
 
 - [Videos: Airflow de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6tjwp2xMiucO53XsvaG48L)
+- [Video: Automatizando ideas con Apache Airflow - Yesi Díaz de Software Gurú](https://www.youtube.com/watch?v=ewK4KszmeTI&list=WL&index=125&t=410s&ab_channel=SoftwareGuru)
 - [Videos: Pentaho Spoon de LEARNING-BI](https://www.youtube.com/playlist?list=PLPgjON4ZM0JBdxxDUAfCS84X79e_2CLNQ)
 - [Videos: Luigi subtitulado de Seattle Data Guy](https://www.youtube.com/playlist?list=PLXRKPZRrlvE4c5fkoYYC34MLTwZ7ZQoje)
 - [Lectura: Azure Data Factory de Microsoft](https://learn.microsoft.com/es-es/azure/data-factory/introduction)
