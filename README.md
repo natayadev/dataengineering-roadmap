@@ -82,6 +82,9 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 - [Certificación: Diseña y programa soluciones IoT con el uso de Big Data de Universidad del Rosario](https://www.edx.org/es/certificates/professional-certificate/urosariox-internet-de-las-cosas-iot-big-data-y-sus-aplicaciones?index=spanish_product&queryID=b0edf1baa13ad200be83166c876cea13&position=1&results_level=second-level-results&term=big+data&objectID=program-04e59d90-d7a3-48bb-a1f6-603982989153&campaign=Internet+de+las+cosas+%28IoT%29%2C+Big+Data+y+sus+aplicaciones&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fes%2Fsearch)
 - [Certificación: Big Data de University of California San Diego](https://www.coursera.org/specializations/big-data)
 - [Video: Big data y privacidad de Databits](https://www.youtube.com/watch?v=-5kmGbc0RFM&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=18&ab_channel=Databits)
+- [Videos: Gobierno de Datos de Smart Data](https://www.youtube.com/playlist?list=PL25mmW8d60iny2m7X73turXMfTK9ztTkk)
+- [Video: Cómo Iniciar con Gobierno de Datos sin Romper el Presupuesto de Software Gurú](https://www.youtube.com/watch?v=INggcxBN_lc&list=WL&index=84&ab_channel=SoftwareGuru)
+ 
 ### 📊 Analítica (opcional)
 - [Certificación: Fundamentos profesionales del análisis de datos, de Microsoft y LinkedIn](https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin?src=direct%2Fnone&veh=direct%2Fnone)
 - [Certificación: Certificado profesional de Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics#courses)
@@ -111,10 +114,12 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - [Video: ¿Cómo convertirte en un verdadero Ingeniero de Datos? de Databits](https://www.youtube.com/watch?v=OiWR3pRyvgE&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=4&ab_channel=Databits)
 - [Videos: Preprocesamiento de Datos en Python de Rocio Chavez](https://www.youtube.com/playlist?list=PLUofJx5RUeFqAIVdzfnJayenwZFEGtCmg)
 - [Videos: Preprocesamiento de Datos en R de Rocio Chavez](https://www.youtube.com/playlist?list=PLUofJx5RUeFqGJJxKflkhDRTot29M7CYj)
+- [Video: Pruebas A/B: Datos, no opiniones de SantanDev](https://www.youtube.com/watch?v=Yxdsu-RWsPc&list=WL&index=70&ab_channel=SantanderTec)
 
 ### 🎭 Orquestadores
 
 - [Videos: Airflow de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6tjwp2xMiucO53XsvaG48L)
+- [Videos: Pentaho Spoon de LEARNING-BI](https://www.youtube.com/playlist?list=PLPgjON4ZM0JBdxxDUAfCS84X79e_2CLNQ)
 - [Videos: Luigi subtitulado de Seattle Data Guy](https://www.youtube.com/playlist?list=PLXRKPZRrlvE4c5fkoYYC34MLTwZ7ZQoje)
 - [Lectura: Azure Data Factory de Microsoft](https://learn.microsoft.com/es-es/azure/data-factory/introduction)
 
