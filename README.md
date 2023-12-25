@@ -30,6 +30,7 @@ Recomiendo iniciar con Python debido a su curva de aprendizaje amigable y su pre
 - [Curso: Harvard CS50’s Introducción a la programación con Python subtítulado de FreeCodeCamp](https://www.youtube.com/watch?v=nLRL_NcnK-4&ab_channel=freeCodeCamp.org)
 - [Curso: Python intermedio subtitulado de FreeCodeCamp](https://www.youtube.com/watch?v=HGOBQPFzWKo&ab_channel=freeCodeCamp.org)
 - [Curso: Pandas de Kaggle](https://www.kaggle.com/learn/pandas)
+- [Videos: Expresiones Regulares de Ada Lovecode](https://www.youtube.com/playlist?list=PLI7nHlOIIPOJNEgw0BHE415nQST8Ve3JN)
 - [Video: Principios de la Programación Orientada a Objetos de BettaTech](https://www.youtube.com/watch?v=tTPeP5dVuA4&ab_channel=BettaTech)
 - [Videos: Programación Orientada a Objetos explicada con Minecraft de Absolute](https://www.youtube.com/playlist?list=PL-9YbO84eUcfKPIbzI6-ledKGY_6_Fvcj)
 - [Curso: Julia para gente con prisa de Miguel Raz](https://github.com/miguelraz/JuliaParaGenteConPrisa)
@@ -57,8 +58,9 @@ En esta instancia toca aprender sobre las bases de datos. La elección del gesto
 - [Lectura: Diferencias entre DDL, DML y DCL de TodoPostgreSQL](https://www.todopostgresql.com/diferencias-entre-ddl-dml-y-dcl/)
 - [Video: Procedimientos almacenados #1 de Héctor de León](https://youtu.be/NCcc2aISGtE?si=SZpgTmkSRmYzzmRd)
 - [Video: Procedimientos almacenados #2 de Héctor de León](https://youtu.be/B9yw925kdiw?si=WwndA4YEmzKS3MsN)
-- [Video: Curso de MongoDB de Fazt](https://www.youtube.com/watch?v=lWMemPN9t6Q&ab_channel=Fazt)
-  
+- [Video: MongoDB de Fazt](https://www.youtube.com/watch?v=lWMemPN9t6Q&ab_channel=Fazt)
+- [Videos: MongoDB de MitoCode](https://www.youtube.com/playlist?list=PLvimn1Ins-43y_9RNEo4JIFdpA5SJCYey)
+    
 ### 📊 SQL
 También aprenderás SQL, un lenguaje de consulta para gestionar y manipular las bases de datos relacionales.
 - [Videos: SQL de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6ybDbpk4pmk5BCxluqz5cS)
@@ -107,6 +109,8 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 
 - [Video: Ingeniería de datos: viaje al corazón de los proyectos de datos de RockingData](https://www.youtube.com/watch?v=UPPOEFUrvFU&list=PLwKA-LJRe79hxt69x6GVqTofHUetiB9vQ&index=8&ab_channel=RockingData)
 - [Video: ¿Cómo convertirte en un verdadero Ingeniero de Datos? de Databits](https://www.youtube.com/watch?v=OiWR3pRyvgE&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=4&ab_channel=Databits)
+- [Videos: Preprocesamiento de Datos en Python de Rocio Chavez](https://www.youtube.com/playlist?list=PLUofJx5RUeFqAIVdzfnJayenwZFEGtCmg)
+- [Videos: Preprocesamiento de Datos en R de Rocio Chavez](https://www.youtube.com/playlist?list=PLUofJx5RUeFqGJJxKflkhDRTot29M7CYj)
 
 ### 🎭 Orquestadores
 
@@ -119,9 +123,13 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - [Lectura: Diferencias clave entre el OLAP y el OLTP de AWS](https://aws.amazon.com/es/compare/the-difference-between-olap-and-oltp/)
 - [Video: Construye ETL en batch y streaming con Spark de Databits](https://www.youtube.com/watch?v=hvwuMCPSB3M&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=13&ab_channel=Databits)
 - [Lectura: Comparación de contenedores y máquinas virtuales de Atlassian](https://www.atlassian.com/es/microservices/cloud-computing/containers-vs-vms)
+- [Videos: Docker de Pelado Nerd](https://www.youtube.com/playlist?list=PLqRCtm0kbeHAep1hc7yW-EZQoAJqSTgD-)
+- [Videos: Kubernetes de Pelado Nerd](https://www.youtube.com/playlist?list=PLqRCtm0kbeHA5M_E_Anwu-vh4NWlgrOY_)
 - [Lectura: ¿Qué es un sistema distribuido? de Atlassian](https://www.atlassian.com/es/microservices/microservices-architecture/distributed-architecture)
 - [Videos: Spark de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6CH3sQS6zhuIVKoPllmXiB)
 - [Video: Infraestructura como código para ingeniería de datos de Spark México](https://www.youtube.com/watch?v=FjB3-RS_s38&ab_channel=SparkMexico)
+- [Videos: Apache Spark de NullSafe Architect](https://www.youtube.com/playlist?list=PLwH0tlWs8nkQ-56HPCFeKsCJIStOOn_3j)
+- [Videos: Apache Kafka de NullSafe Architect](https://www.youtube.com/playlist?list=PLwH0tlWs8nkSQRxizVF5Uuu-sLVYqdjaW)
 
 ## Cloud
 
