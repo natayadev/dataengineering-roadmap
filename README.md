@@ -102,7 +102,7 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 - [Videos: ¡Business Intelligence para Todos! de PEALCALA](https://www.youtube.com/playlist?list=PLCpKRQB2yv13cmUkcVlxVWA3md3uE9u3N)
 
 ## Procesamiento de Datos
-En esta sección está el corazón de la ingeniería de datos, veremos que son los data pipelines, qué es un ETL, orquestadores, y más.
+En esta sección está el corazón de la ingeniería de datos, veremos que son los data pipelines, qué es un ETL, orquestadores, y más. Además, dejo una lista de conceptos clave qué voy a ir actualizando con sus recursos respectivos a futuro, si te interesa aprenderlos en detalle, podés buscar en los libros subidos en el repositorio.
 - [Canal: CodinEric](https://www.youtube.com/@CodinEric)
 - [Canal: Data Engineering LATAM](https://www.youtube.com/@DataEngineeringLatam)
 - [Canal: Datademia](https://www.youtube.com/@datademia)
@@ -115,9 +115,21 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - [Videos: Preprocesamiento de Datos en Python de Rocio Chavez](https://www.youtube.com/playlist?list=PLUofJx5RUeFqAIVdzfnJayenwZFEGtCmg)
 - [Videos: Preprocesamiento de Datos en R de Rocio Chavez](https://www.youtube.com/playlist?list=PLUofJx5RUeFqGJJxKflkhDRTot29M7CYj)
 - [Video: Pruebas A/B: Datos, no opiniones de SantanDev](https://www.youtube.com/watch?v=Yxdsu-RWsPc&list=WL&index=70&ab_channel=SantanderTec)
+- Cargas incrementales
+- Colas de mensajería
+- Expresiones Cron
+
+### ❄️ Bases de datos avanzado
+- Modelo relacional
+- Modelo dimensional
+- Facts y dimensiones
+- Datalake, Datamart, Datawarehouse y Dataqube
+- Diseño por columnas y basada por filas
+- Esquemas star y snowflake
+- Esquemas on read y on write
+
 
 ### 🎭 Orquestadores
-
 - [Videos: Airflow de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6tjwp2xMiucO53XsvaG48L)
 - [Video: Automatizando ideas con Apache Airflow - Yesi Díaz de Software Gurú](https://www.youtube.com/watch?v=ewK4KszmeTI&list=WL&index=125&t=410s&ab_channel=SoftwareGuru)
 - [Videos: Pentaho Spoon de LEARNING-BI](https://www.youtube.com/playlist?list=PLPgjON4ZM0JBdxxDUAfCS84X79e_2CLNQ)
@@ -126,6 +138,9 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 
 ### 🏰 Arquitecturas
 
+- Procesamiento de datos por lotes o batch
+- Procesamiento en tiempo real o streaming
+- Arquitecturas lambda y kappa
 - [Lectura: Diferencias clave entre el OLAP y el OLTP de AWS](https://aws.amazon.com/es/compare/the-difference-between-olap-and-oltp/)
 - [Video: Construye ETL en batch y streaming con Spark de Databits](https://www.youtube.com/watch?v=hvwuMCPSB3M&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=13&ab_channel=Databits)
 - [Lectura: Comparación de contenedores y máquinas virtuales de Atlassian](https://www.atlassian.com/es/microservices/cloud-computing/containers-vs-vms)
