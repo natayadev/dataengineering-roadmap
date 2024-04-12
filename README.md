@@ -152,6 +152,10 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - [Videos: Apache Spark de NullSafe Architect](https://www.youtube.com/playlist?list=PLwH0tlWs8nkQ-56HPCFeKsCJIStOOn_3j)
 - [Videos: Apache Kafka de NullSafe Architect](https://www.youtube.com/playlist?list=PLwH0tlWs8nkSQRxizVF5Uuu-sLVYqdjaW)
 
+### 🧪 Testing
+- [Video: Great Expectations: Validar Data Pipelines como un Profesional por CodingEric en la PyConAr 2020](https://www.youtube.com/watch?v=VjTYGVlKTLM)
+- [Video: ETL Testing y su Automatización con Python por Patricio Miner en la #QSConf 2023](https://www.youtube.com/watch?v=1G-_uFkEv3U)
+
 ## Cloud
 
 Es útil tener conocimientos de cloud computing. Llegado a este punto, te recomendaría considerar la preparación de certificaciones oficiales. Aunque estos exámenes suelen tener un costo, puedes encontrar recursos de preparación gratuitos y oficiales de los proveedores más conocidos en la industria.
