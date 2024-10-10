@@ -6,9 +6,12 @@
 
 [📚 Libros de ingeniería de datos en inglés](books)
 
+[📖 Patrones de Diseño para DE en inglés](https://www.dedp.online/)
+
 <img align="center" alt="Roadmap illustration" src="./src/ROADMAP.png" />
 
 ## Programación
+
 ### 🚀 Fundamentos
 
 Comenzamos con la comprensión de los conceptos fundamentales de programación y lógica. Esta sección puede ser desarrollada simultáneamente con el aprendizaje del lenguaje de programación que elijan.
@@ -51,7 +54,9 @@ El aprendizaje sobre el control de versiones no solo es valioso al trabajar en e
 - IDE: [VSCode](https://code.visualstudio.com/) o [Spyder](https://www.spyder-ide.org/)
 
 ## Bases de datos
+
 ### 🚀 Fundamentos
+
 En esta instancia toca aprender sobre las bases de datos. La elección del gestor de bases de datos a utilizar queda a tu criterio, aunque personalmente recomiendo [PostgreSQL](https://www.postgresql.org/) para datos estructurados y [MongoDB](https://www.mongodb.com/es) para datos no estructurados. Sin embargo, existen muchas otras opciones: MySQL, SQLite y demás.
 
 - [Videos: Introducción a las bases de datos de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwcW3dkmUqJq7B-SXHyCglf)
@@ -76,6 +81,7 @@ Ahora seguimos con conceptos más avanzados que nos servirán para diseñar base
   
 ## Big Data
 Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interesante adquirir conocimientos básicos sobre inteligencia artificial, inteligencia de negocios y análisis de datos sin la necesidad de profundizar demasiado.
+
 ### 🚀 Fundamentos
 - [Video: Big Data para dummies de Datahack](https://www.youtube.com/watch?v=DabkDUsNfIg&ab_channel=Datahack)
 - [Lectura: Big Data: ¿Qué es y cómo ayuda a mi negocio? de Salesforce](https://www.salesforce.com/mx/blog/big-data/)
@@ -84,19 +90,21 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 - [Video: Big data y privacidad de Databits](https://www.youtube.com/watch?v=-5kmGbc0RFM&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=18&ab_channel=Databits)
 - [Videos: Gobierno de Datos de Smart Data](https://www.youtube.com/playlist?list=PL25mmW8d60iny2m7X73turXMfTK9ztTkk)
 - [Video: Cómo Iniciar con Gobierno de Datos sin Romper el Presupuesto de Software Gurú](https://www.youtube.com/watch?v=INggcxBN_lc&list=WL&index=84&ab_channel=SoftwareGuru)
- 
+
 ### 📊 Analítica (opcional)
 - [Certificación: Fundamentos profesionales del análisis de datos, de Microsoft y LinkedIn](https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin?src=direct%2Fnone&veh=direct%2Fnone)
 - [Certificación: Certificado profesional de Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics#courses)
 - [Certificación: Certificado profesional de Analista de datos de IBM](https://www.coursera.org/professional-certificates/ibm-data-analyst)
 - [Curso: Análisis de datos con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 - [Video: Storytelling: ¿Cómo convertir tu contenido en una historia? de Coderhouse](https://www.youtube.com/watch?v=pPHRb1dVRDE&ab_channel=Coderhouse)
+
 ### 🤖 Inteligencia artificial (opcional)
 - [Curso: Machine Learning con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - [Canal: AprendeIA con Ligdi Gonzalez](https://www.youtube.com/@aprendeIA/playlists)
 - [Videos: Aprende Inteligencia Artificial de Dot CSV](https://www.youtube.com/playlist?list=PL-Ogd76BhmcC_E2RjgIIJZd1DQdYHcVf0)
 - [Video: Cómo usar ChatGPT en ingeniería de datos de Datalytics](https://www.youtube.com/watch?v=cg9VGCqLe9U&ab_channel=Datalytics)
 - [Curso: Inteligencia Artificial subtitulado de Universidad de Columbia](https://www.edx.org/es/learn/artificial-intelligence/columbia-university-artificial-intelligence-ai)
+
 ### 📈 Inteligencia de negocios (opcional)
 - [Videos: Google Business Intelligence Certificate subtitulado de Google Career](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6r3YwRBuSE7xIMYAiN2Bl85)
 - [Videos: ¡Business Intelligence para Todos! de PEALCALA](https://www.youtube.com/playlist?list=PLCpKRQB2yv13cmUkcVlxVWA3md3uE9u3N)
@@ -127,7 +135,6 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - Diseño por columnas y basada por filas
 - Esquemas star y snowflake
 - Esquemas on read y on write
-
 
 ### 🎭 Orquestadores
 - [Videos: Airflow de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6tjwp2xMiucO53XsvaG48L)
@@ -177,7 +184,9 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
     - [Videos: AWS de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
 
 ## Búsqueda Laboral
+
 Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias relacionadas con la búsqueda laboral en el ámbito de sistemas. Más adelante, se agregarán desafíos técnicos y otros recursos vinculados al tema.
+
 ### 🔍 Consejos
 - [Video: ¿Cómo obtener tu primer empleo en ingeniería de datos? de Spark México](https://www.youtube.com/watch?v=E3AviR1_Y_c&ab_channel=SparkMexico)
 - [Videos: Consejos Laborales para el mundo IT de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwcH3zocNIeDNL6ExUorxa9)
