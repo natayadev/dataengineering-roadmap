@@ -51,7 +51,7 @@ El aprendizaje sobre el control de versiones no solo es valioso al trabajar en e
 ### 🛠️ Más herramientas
 
 - Notebooks: [Google Collab](https://colab.google/), [Jupyter](https://jupyter.org/) o [Deepnote](https://deepnote.com/)
-- IDE: [VSCode](https://code.visualstudio.com/), [Spyder](https://www.spyder-ide.org/) o [Google IDX](https://idx.google.com/)
+- Editores de texto: [VSCode](https://code.visualstudio.com/), [Spyder](https://www.spyder-ide.org/) o [Google IDX](https://idx.google.com/)
 
 ## Bases de datos
 
