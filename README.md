@@ -115,6 +115,8 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - [Canal: Data Engineering LATAM](https://www.youtube.com/@DataEngineeringLatam)
 - [Canal: Datademia](https://www.youtube.com/@datademia)
 - [Canal: Datalytics](https://www.youtube.com/@datalytics.mejorcondatos)
+- [Blog: Start (inglés)](https://www.startdataengineering.com/)
+- [Plataforma de aprendizaje DataWars](https://www.datawars.io/)
 
 ### 🔍 ETL y Data Pipelines
 
