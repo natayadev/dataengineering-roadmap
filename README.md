@@ -38,6 +38,10 @@ Recomiendo iniciar con Python debido a su curva de aprendizaje amigable y su pre
 - [Videos: Programación Orientada a Objetos explicada con Minecraft de Absolute](https://www.youtube.com/playlist?list=PL-9YbO84eUcfKPIbzI6-ledKGY_6_Fvcj)
 - [Curso: Julia para gente con prisa de Miguel Raz](https://github.com/miguelraz/JuliaParaGenteConPrisa)
 
+### 📊 Excel
+
+- []()
+
 ### 🔄 Control de versiones con Git
 
 El aprendizaje sobre el control de versiones no solo es valioso al trabajar en equipos, sino que también nos proporciona la capacidad de rastrear, comprender y gestionar los cambios realizados en nuestro proyecto y así mantener un desarrollo eficiente y colaborativo.
@@ -67,12 +71,14 @@ En esta instancia toca aprender sobre las bases de datos. La elección del gesto
 - [Videos: MongoDB de MitoCode](https://www.youtube.com/playlist?list=PLvimn1Ins-43y_9RNEo4JIFdpA5SJCYey)
     
 ### 📊 SQL
+
 También aprenderás SQL, un lenguaje de consulta para gestionar y manipular las bases de datos relacionales.
 - [Videos: SQL de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6ybDbpk4pmk5BCxluqz5cS)
 - [Intro to SQL de Kaggle](https://www.kaggle.com/learn/intro-to-sql)
 - [Advanced SQL de Kaggle](https://www.kaggle.com/learn/advanced-sql)
 
 ### 📐 Diseño
+
 Ahora seguimos con conceptos más avanzados que nos servirán para diseñar bases de datos, datalake, datawarehouses, esquemas, etcétera.
 - [Video: ¿Cuándo utilizar SQL y cuando NoSQL? de Héctor de León](https://www.youtube.com/watch?v=EwJlyyq2urE&list=PLWYKfSbdsjJi6lb_dZ-UrGwRCJxmjhapl&index=9&ab_channel=hdeleon.net)
 - [Video: ¿Cómo se modelan las bases de datos NoSQL? de HolaMundo](https://youtu.be/Zdlude8l8w4?si=gfIqq3gknpT4nDT4)
@@ -80,9 +86,11 @@ Ahora seguimos con conceptos más avanzados que nos servirán para diseñar base
 - [Video: Bases de Datos de Grafos, Fundamentos y Práctica de Datahack](https://www.youtube.com/watch?v=gDiZQ60LkpE&ab_channel=Datahack)
   
 ## Big Data
+
 Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interesante adquirir conocimientos básicos sobre inteligencia artificial, inteligencia de negocios y análisis de datos sin la necesidad de profundizar demasiado.
 
 ### 🚀 Fundamentos
+
 - [Video: Big Data para dummies de Datahack](https://www.youtube.com/watch?v=DabkDUsNfIg&ab_channel=Datahack)
 - [Lectura: Big Data: ¿Qué es y cómo ayuda a mi negocio? de Salesforce](https://www.salesforce.com/mx/blog/big-data/)
 - [Certificación: Diseña y programa soluciones IoT con el uso de Big Data de Universidad del Rosario](https://www.edx.org/es/certificates/professional-certificate/urosariox-internet-de-las-cosas-iot-big-data-y-sus-aplicaciones?index=spanish_product&queryID=b0edf1baa13ad200be83166c876cea13&position=1&results_level=second-level-results&term=big+data&objectID=program-04e59d90-d7a3-48bb-a1f6-603982989153&campaign=Internet+de+las+cosas+%28IoT%29%2C+Big+Data+y+sus+aplicaciones&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Fes%2Fsearch)
@@ -91,25 +99,37 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 - [Videos: Gobierno de Datos de Smart Data](https://www.youtube.com/playlist?list=PL25mmW8d60iny2m7X73turXMfTK9ztTkk)
 - [Video: Cómo Iniciar con Gobierno de Datos sin Romper el Presupuesto de Software Gurú](https://www.youtube.com/watch?v=INggcxBN_lc&list=WL&index=84&ab_channel=SoftwareGuru)
 
-### 📊 Analítica (opcional)
+### 📊 Analítica y exploración de datos
+
 - [Certificación: Fundamentos profesionales del análisis de datos, de Microsoft y LinkedIn](https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin?src=direct%2Fnone&veh=direct%2Fnone)
 - [Certificación: Certificado profesional de Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics#courses)
 - [Certificación: Certificado profesional de Analista de datos de IBM](https://www.coursera.org/professional-certificates/ibm-data-analyst)
 - [Curso: Análisis de datos con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 - [Video: Storytelling: ¿Cómo convertir tu contenido en una historia? de Coderhouse](https://www.youtube.com/watch?v=pPHRb1dVRDE&ab_channel=Coderhouse)
 
-### 🤖 Inteligencia artificial (opcional)
+### 🛠️ Estadística
+
+- []()
+
+### 🤖 Inteligencia artificial 
+
 - [Curso: Machine Learning con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - [Canal: AprendeIA con Ligdi Gonzalez](https://www.youtube.com/@aprendeIA/playlists)
 - [Videos: Aprende Inteligencia Artificial de Dot CSV](https://www.youtube.com/playlist?list=PL-Ogd76BhmcC_E2RjgIIJZd1DQdYHcVf0)
 - [Video: Cómo usar ChatGPT en ingeniería de datos de Datalytics](https://www.youtube.com/watch?v=cg9VGCqLe9U&ab_channel=Datalytics)
 - [Curso: Inteligencia Artificial subtitulado de Universidad de Columbia](https://www.edx.org/es/learn/artificial-intelligence/columbia-university-artificial-intelligence-ai)
 
-### 📈 Inteligencia de negocios (opcional)
+### 📈 Inteligencia de negocios
+
 - [Videos: Google Business Intelligence Certificate subtitulado de Google Career](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6r3YwRBuSE7xIMYAiN2Bl85)
 - [Videos: ¡Business Intelligence para Todos! de PEALCALA](https://www.youtube.com/playlist?list=PLCpKRQB2yv13cmUkcVlxVWA3md3uE9u3N)
 
+### 📊 DataViz
+
+- []()
+
 ## Procesamiento de Datos
+
 En esta sección está el corazón de la ingeniería de datos, veremos que son los data pipelines, qué es un ETL, orquestadores, y más. Además, dejo una lista de conceptos clave qué voy a ir actualizando con sus recursos respectivos a futuro, si te interesa aprenderlos en detalle, podés buscar en los libros subidos en el repositorio.
 - [Canal: CodinEric](https://www.youtube.com/@CodinEric)
 - [Canal: Data Engineering LATAM](https://www.youtube.com/@DataEngineeringLatam)
@@ -130,6 +150,7 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - Expresiones Cron
 
 ### ❄️ Bases de datos avanzado
+
 - Modelo relacional
 - Modelo dimensional
 - Facts y dimensiones
@@ -139,6 +160,7 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - Esquemas on read y on write
 
 ### 🎭 Orquestadores
+
 - [Videos: Airflow de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6tjwp2xMiucO53XsvaG48L)
 - [Video: Automatizando ideas con Apache Airflow - Yesi Díaz de Software Gurú](https://www.youtube.com/watch?v=ewK4KszmeTI&list=WL&index=125&t=410s&ab_channel=SoftwareGuru)
 - [Videos: Pentaho Spoon de LEARNING-BI](https://www.youtube.com/playlist?list=PLPgjON4ZM0JBdxxDUAfCS84X79e_2CLNQ)
@@ -162,6 +184,7 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - [Videos: Apache Kafka de NullSafe Architect](https://www.youtube.com/playlist?list=PLwH0tlWs8nkSQRxizVF5Uuu-sLVYqdjaW)
 
 ### 🧪 Testing
+
 - [Video: Great Expectations: Validar Data Pipelines como un Profesional por CodingEric en la PyConAr 2020](https://www.youtube.com/watch?v=VjTYGVlKTLM)
 - [Video: ETL Testing y su Automatización con Python por Patricio Miner en la #QSConf 2023](https://www.youtube.com/watch?v=1G-_uFkEv3U)
 
@@ -190,6 +213,7 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
 Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias relacionadas con la búsqueda laboral en el ámbito de sistemas. Más adelante, se agregarán desafíos técnicos y otros recursos vinculados al tema.
 
 ### 🔍 Consejos
+
 - [Video: ¿Cómo obtener tu primer empleo en ingeniería de datos? de Spark México](https://www.youtube.com/watch?v=E3AviR1_Y_c&ab_channel=SparkMexico)
 - [Videos: Consejos Laborales para el mundo IT de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwcH3zocNIeDNL6ExUorxa9)
 - [Videos: Esenciales para comenzar en el mundo de los sistemas de Maxi Programa](https://www.youtube.com/playlist?list=PLQRFzsIQFmxq6DUftRLXkOE5hiEej2EoJ)
@@ -203,6 +227,7 @@ Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias
 - [Podcast: DevRock de Jonatan Ariste](https://open.spotify.com/show/5uRPZ5r7bRkW29c5AkppXq)
 
 ### 🛠️ Desafíos técnicos
+
 - [(2023) Repositorio: Desafíos de código de la comunidad de MoureDev](https://github.com/mouredev/Code-Challenges)
 - [(2024) Repositorio: Roadmap retos de programación de la comunidad de MoureDev](https://github.com/mouredev/roadmap-retos-programacion)
 
