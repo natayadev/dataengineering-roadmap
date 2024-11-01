@@ -205,7 +205,8 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
 - [Ingeniería de datos de Microsoft Azure](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-203/)
     - [Videos: Azure de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5KdJXw7Z3TZMgKD90guixl)
     - [Videos: Certificaciones de Azure de Aprender Big Data](https://www.youtube.com/playlist?list=PLGnDOd349NCNxtsQpeWtIyD7lY1IrYw-n)
-- Ingeniería de datos de AWS (pronto)
+- [Ingeniería de datos con Fabric de Microsoft Azure](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-700/)
+- [Ingeniería de datos de AWS](https://aws.amazon.com/es/certification/certified-data-engineer-associate/)
     - [Videos: AWS de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
 
 ## Búsqueda Laboral
