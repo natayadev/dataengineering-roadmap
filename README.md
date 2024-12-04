@@ -209,6 +209,7 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
 - [Ingeniería de datos con Fabric de Microsoft Azure](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-700/)
 - [Ingeniería de datos de AWS](https://aws.amazon.com/es/certification/certified-data-engineer-associate/)
     - [Videos: AWS de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
+    - [Preguntas oficiales](https://www.linkedin.com/feed/update/urn:li:activity:7269780247145762817/)
 
 ## Búsqueda Laboral
 
