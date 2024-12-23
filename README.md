@@ -118,6 +118,7 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 - [Videos: Aprende Inteligencia Artificial de Dot CSV](https://www.youtube.com/playlist?list=PL-Ogd76BhmcC_E2RjgIIJZd1DQdYHcVf0)
 - [Video: Cómo usar ChatGPT en ingeniería de datos de Datalytics](https://www.youtube.com/watch?v=cg9VGCqLe9U&ab_channel=Datalytics)
 - [Curso: Inteligencia Artificial subtitulado de Universidad de Columbia](https://www.edx.org/es/learn/artificial-intelligence/columbia-university-artificial-intelligence-ai)
+- [Recursos: DataSAM](https://datasam.notion.site/Recursos-b3acbebecd664f5f8571cc32eaabe542)
 
 ### 📈 Inteligencia de negocios
 
@@ -208,6 +209,7 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
 - [Ingeniería de datos con Fabric de Microsoft Azure](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-700/)
 - [Ingeniería de datos de AWS](https://aws.amazon.com/es/certification/certified-data-engineer-associate/)
     - [Videos: AWS de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
+    - [Preguntas oficiales](https://www.linkedin.com/feed/update/urn:li:activity:7269780247145762817/)
 
 ## Búsqueda Laboral
 
@@ -231,6 +233,8 @@ Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias
 
 - [(2023) Repositorio: Desafíos de código de la comunidad de MoureDev](https://github.com/mouredev/Code-Challenges)
 - [(2024) Repositorio: Roadmap retos de programación de la comunidad de MoureDev](https://github.com/mouredev/roadmap-retos-programacion)
+- [Blog: Preguntas de entrevista de DataCamp](https://www.datacamp.com/es/blog/top-21-data-engineering-interview-questions-and-answers)
+- [Hilo: Preguntas de entrevista de @natayadev](https://x.com/natayadev/status/1806308271516430693)
 
 En proceso 😊
 
