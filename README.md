@@ -6,6 +6,8 @@
 
 [📚 Libros de ingeniería de datos en inglés](books)
 
+[🛠️ Reto #100DiasDeIngenieriaDeDatos](challenges)
+
 [📖 Patrones de Diseño para DE en inglés](https://www.dedp.online/)
 
 <img align="center" alt="Roadmap illustration" src="./src/ROADMAP.png" />
@@ -231,6 +233,7 @@ Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias
 
 ### 🛠️ Desafíos técnicos
 
+- [Reto #100DiasDeIngenieriaDeDatos](challenges)
 - [(2023) Repositorio: Desafíos de código de la comunidad de MoureDev](https://github.com/mouredev/Code-Challenges)
 - [(2024) Repositorio: Roadmap retos de programación de la comunidad de MoureDev](https://github.com/mouredev/roadmap-retos-programacion)
 - [Blog: Preguntas de entrevista de DataCamp](https://www.datacamp.com/es/blog/top-21-data-engineering-interview-questions-and-answers)
