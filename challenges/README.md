@@ -2,22 +2,24 @@
 <p align="center"> Un repositorio más con conceptos básicos, desafíos técnicos y recursos sobre ingeniería de datos en español 🧙✨</p>
 <p align="center"> ¿Te gustaría aportar al repositorio? Visitá la <a href="CONTRIBUTING.md">guía de contribución</a> </p>
 
-## Desafíos Técnicos
-Esta sección de retos comunitarios en español contendrá desafíos técnicos, preguntas teóricas y recursos para que te prepares para tus entrevistas laborales.
+## 🚀 ¿De qué se trata este reto?
 
-💬 Podés responder en Twitter/X/LinkedIn usando el hashtag **#100DiasDeIngenieriaDeDatos**
+**#100DiasDeIngenieriaDeDatos** es un desafío semanal en español para que puedas prepararte para entrevistas técnicas, reforzar conceptos y aprender en comunidad.
 
-### Preguntas teóricas
+Cada semana vas a encontrar:
+- 📚 **Una pregunta teórica**
+- 🧪 **O un ejercicio práctico**
 
-- ¿Qué es y cuáles son las diferencias entre: **Data Lake**, **Data Warehouse** y **Data Mart**?
+Las **respuestas se publicarán unos días después**, con una explicación y recursos adicionales.
+
+💬 Podés participar en Threads/X/LinkedIn usando el hashtag **#100DiasDeIngenieriaDeDatos** para que podamos leerte, también podés debatir en la comunidad de Data Plumbers.
+
+---
+### ¡Comencemos!
+
+- 📚 Semana 1: ¿Qué es y cuáles son las diferencias entre: Data Lake, Data Warehouse y Data Mart?
 Respuesta: proximamente...
-
-
-### Práctica
-
-Proximamente...
-
-
+- ? Semana 2: proximamente...
 
 
 ---
