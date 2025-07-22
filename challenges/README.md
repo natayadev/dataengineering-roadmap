@@ -19,7 +19,8 @@ Las **respuestas se publicarán unos días después**, con una explicación y re
 
 - 📚 Semana 1: ¿Qué es y cuáles son las diferencias entre: Data Lake, Data Warehouse y Data Mart?
 Respuesta: proximamente...
-- ? Semana 2: proximamente...
+- 📚 Semana 2: ¿Qué significa ETL? ¿Y ELT? ¿Existen otras alternativas?
+Respuesta: proximamente...
 
 
 ---
