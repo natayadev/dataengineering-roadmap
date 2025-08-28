@@ -234,6 +234,7 @@ Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias
 ### 🛠️ Desafíos técnicos
 
 - [Reto #100DiasDeIngenieriaDeDatos](challenges)
+- [Guía para entrevistas técnicas como Ingeniero de software](https://github.com/DevCaress/guia-entrevistas-de-programacion)
 - [(2023) Repositorio: Desafíos de código de la comunidad de MoureDev](https://github.com/mouredev/Code-Challenges)
 - [(2024) Repositorio: Roadmap retos de programación de la comunidad de MoureDev](https://github.com/mouredev/roadmap-retos-programacion)
 - [Blog: Preguntas de entrevista de DataCamp](https://www.datacamp.com/es/blog/top-21-data-engineering-interview-questions-and-answers)
