@@ -60,6 +60,7 @@ En cada recurso encontrarás junto a la bandera de idioma un ícono de nivel rec
 Comenzamos con la comprensión de los conceptos fundamentales de programación y lógica. Esta sección puede ser desarrollada simultáneamente con el aprendizaje del lenguaje de programación que elijan.
 
 - [Curso: Programación Básica de Platzi](https://platzi.com/cursos/programacion-basica/)
+- [Curso: Lógica de Programación Desde Cero de Brais Moure](https://www.youtube.com/watch?v=TdITcVD64zI)
 - [Videos: Introducción a los Algoritmos y la Programación de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbzRVxjkstjLmmn9enb0x3zi)
 - [Videos: Ejercicios de Pseudocódigo de TodoCode](https://www.youtube.com/playlist?list=PLQxX2eiEaqbwHMRObsvtRSb6sA43msUJt)
 - [Videos: Linea de Comandos de Datademia](https://www.youtube.com/playlist?list=PLlhVpWerA0KzfxmP5CRFvmnEkRFldCUqI)
@@ -83,7 +84,8 @@ Recomiendo iniciar con Python debido a su curva de aprendizaje amigable y su pre
 
 ### 📊 Excel
 
-- []()
+- [Videos: Excel de básico a avanzado de A2 Capacitación](https://www.youtube.com/playlist?list=PLGX39GU9MAeqXIm3OYmnLg0elifUA403_)
+- [Videos: Power Query en Excel de A2 Capacitación](https://www.youtube.com/playlist?list=PLGX39GU9MAep3DgSHkVQftbArfeaIoOpe)
 
 ### 🔄 Control de versiones con Git
 
@@ -152,10 +154,12 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 
 ### 🛠️ Estadística
 
-- []()
+- [Videos: Conceptos básicos de estadística de Matemáticas Profe Alex](https://www.youtube.com/playlist?list=PLeySRPnY35dFF5D9g_zi07yPKGXui4GII)
 
 ### 🤖 Inteligencia artificial 
 
+- [Curso: Entrenamiento para científicos de datos de Microsoft Learn](https://learn.microsoft.com/es-es/training/career-paths/data-scientist)
+- [Curso: Formación para ingenieros de IA de Microsoft Learn](https://learn.microsoft.com/es-es/training/career-paths/ai-engineer)
 - [Curso: Machine Learning con Python de FreeCodeCamp](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 - [Canal: AprendeIA con Ligdi Gonzalez](https://www.youtube.com/@aprendeIA/playlists)
 - [Videos: Aprende Inteligencia Artificial de Dot CSV](https://www.youtube.com/playlist?list=PL-Ogd76BhmcC_E2RjgIIJZd1DQdYHcVf0)
@@ -170,12 +174,16 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 
 ### 📊 DataViz
 
-- []()
+- [Curso: Entrenamiento en PowerBI para analistas de datos de Microsoft Learn](https://learn.microsoft.com/es-es/training/career-paths/data-analyst)
+
 
 ## Procesamiento de Datos
 
 En esta sección está el corazón de la ingeniería de datos, veremos que son los data pipelines, qué es un ETL, orquestadores, y más. Además, dejo una lista de conceptos clave qué voy a ir actualizando con sus recursos respectivos a futuro, si te interesa aprenderlos en detalle, podés buscar en los libros subidos en el repositorio.
 - [Canal: CodinEric](https://www.youtube.com/@CodinEric)
+- [Canal: DateNeo](https://www.youtube.com/@Dateneo)
+- [Canal: The LATAM Engineer](https://www.youtube.com/@TheLATAMEngineer)
+- [Canal: Data Wizard](https://www.youtube.com/channel/UC-3UYdbnVUjUGd_iNwHqN8g)
 - [Canal: Data Engineering LATAM](https://www.youtube.com/@DataEngineeringLatam)
 - [Canal: Datademia](https://www.youtube.com/@datademia)
 - [Canal: Datalytics](https://www.youtube.com/@datalytics.mejorcondatos)
@@ -227,10 +235,14 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - [Videos: Apache Spark de NullSafe Architect](https://www.youtube.com/playlist?list=PLwH0tlWs8nkQ-56HPCFeKsCJIStOOn_3j)
 - [Videos: Apache Kafka de NullSafe Architect](https://www.youtube.com/playlist?list=PLwH0tlWs8nkSQRxizVF5Uuu-sLVYqdjaW)
 
-### 🧪 Testing
+### 🧪 Testing y DevOps
 
 - [Video: Great Expectations: Validar Data Pipelines como un Profesional por CodingEric en la PyConAr 2020](https://www.youtube.com/watch?v=VjTYGVlKTLM)
 - [Video: ETL Testing y su Automatización con Python por Patricio Miner en la #QSConf 2023](https://www.youtube.com/watch?v=1G-_uFkEv3U)
+- [Video: De local a producción: mentalidad DevOps de The LATAM Engineer](https://www.youtube.com/live/VHfIVpeA8Is?si=IUVDQDFOCNCZkYtk)
+- [Video: Data Testing - La clave oculta de la confianza en los datos de NTT DATA LATAM](https://www.youtube.com/watch?v=9aLl7JcO_aI)
+- [Video: DataOps - Optimizando el flujo de datos para la toma de decisiones de NTT DATA LATAM](https://www.youtube.com/watch?v=29_Q5QG7qkg)
+
 
 ## Cloud
 
@@ -244,15 +256,21 @@ Es útil tener conocimientos de cloud computing. Llegado a este punto, te recome
 
 ### 📜 Certificaciones oficiales
 
+- [Databricks Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)
+    - [Cursos: Databricks Learning Catalog](https://customer-academy.databricks.com/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=p-0~l-_es)
 - [Ingeniería de datos de Google Cloud](https://www.cloudskillsboost.google/paths/16?hl=es-419)
+    - [Curso: Ruta de aprendizaje de Data Engineer de Google Skills](https://www.skills.google/paths/16)
     - [Videos: Google Cloud (GCP) de Aprender Big Data](https://www.youtube.com/playlist?list=PLGnDOd349NCNtUCRdRbtMRKl0V2gPPr5G)
-- [Ingeniería de datos de Microsoft Azure](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-203/)
+- [Ingeniería de datos con Microsoft Fabric](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-700/)
+    - [Curso: Formación para ingenieros de datos de Microsoft Learn](https://learn.microsoft.com/es-es/training/career-paths/data-engineer)
+- [Ingeniería de datos de Microsoft Azure (deprecado)](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-203/)
     - [Videos: Azure de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5KdJXw7Z3TZMgKD90guixl)
     - [Videos: Certificaciones de Azure de Aprender Big Data](https://www.youtube.com/playlist?list=PLGnDOd349NCNxtsQpeWtIyD7lY1IrYw-n)
-- [Ingeniería de datos con Fabric de Microsoft Azure](https://learn.microsoft.com/es-es/credentials/certifications/exams/dp-700/)
 - [Ingeniería de datos de AWS](https://aws.amazon.com/es/certification/certified-data-engineer-associate/)
     - [Videos: AWS de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA5wi_1xtajCa9WjpobZUZl-)
     - [Preguntas oficiales](https://www.linkedin.com/feed/update/urn:li:activity:7269780247145762817/)
+
+
 
 ## Búsqueda Laboral
 
