@@ -1,6 +1,9 @@
 <h1 align="center"> Roadmap 2025 - Data Engineering en español</h1>
+<img align="center" alt="Roadmap illustration" src="./src/ROADMAP.png" />
+
 <p align="center"> Un repositorio más con conceptos básicos, desafíos técnicos y recursos sobre ingeniería de datos en español 🧙✨</p>
 <p align="center"> ¿Te gustaría aportar al repositorio? Visitá la <a href="CONTRIBUTING.md">guía de contribución</a> </p>
+
 
 *Nota: la siguiente ruta de aprendizaje está diseñada a **criterio personal** con la idea de facilitar el estudio de aquellos interesados en la ingeniería de datos con material libre, gratuito y en español que encontré en internet. **No es** una guía definitiva ni un curso, **es** una lista de recursos que puede ser mejorada con el tiempo con contribuciones de la comunidad.*
 
@@ -10,7 +13,48 @@
 
 [📖 Patrones de Diseño para DE en inglés](https://www.dedp.online/)
 
-<img align="center" alt="Roadmap illustration" src="./src/ROADMAP.png" />
+
+---
+
+## 🏁 Niveles sugeridos en los recursos
+
+- 🟢 Principiante: Recursos para quienes empiezan desde cero.
+- 🟡 Intermedio: Requiere conocimientos previos en el área.
+- 🔴 Avanzado: Material para profundizar y especializarse.
+
+En cada recurso encontrarás junto a la bandera de idioma un ícono de nivel recomendado. Así sabrás con qué empezar y cómo seguir avanzando según tu experiencia.
+
+
+> La mayoría de los recursos están en español, pero también se incluyen materiales originales en inglés que podrás traducir con la opción "traducir al español" en tu navegador. Además, muchos videos ofrecen subtítulos automáticos, transcripciones o  la opción de “lectura por voz”.<br>
+
+---
+
+## 📑 Índice de navegación rápida
+
+| Sección                                    | Qué cubre                            | Prioridad    | Enlace interno                  |
+|:-------------------------------------------|:--------------------------------------|:-------------|:-------------------------------|
+| Programación                               | Lógica, lenguajes, control de versiones | Obligatorio  | [Ir](#programación)   |
+| Bases de datos                             | SQL, NoSQL, modelado                  | Obligatorio  | [Ir](#bases-de-datos)   |
+| Big Data                                   | Analítica, IA, BI                     | Obligatorio  | [Ir](#big-data)        |
+| Procesamiento de Datos                     | ETL, orquestadores, pipelines          | Obligatorio  | [Ir](#procesamiento-de-datos) |
+| La Nube                                    | Cloud, certificaciones                 | Obligatorio  | [Ir](#cloud)   |
+| Búsqueda laboral y desafíos                | Empleo y práctica técnica              | Sugerido     | [Ir](#búsqueda-laboral)        |
+
+> **Tip:** Si buscas por una palabra clave, usa Ctrl+F (o Cmd+F). Si eres principiante, sigue el orden propuesto arriba.
+
+---
+
+## 🚩 ¿Por dónde empiezo?
+- Si no programas aún, **empieza por Programación**.
+- Si manejas SQL, avanza a **Big Data** o **Procesamiento**.
+- ¿Te interesa una certificación? Ve a **La Nube**.
+
+---
+
+> 🔍 Si tu duda ya está aquí y sigues sin encontrar la respuesta, utiliza el índice o revisa la FAQ (próximamente). ¡Recuerda que muchas preguntas frecuentes ya están abordadas en los recursos principales!
+
+---
+
 
 ## Programación
 
@@ -240,9 +284,8 @@ Finalmente te dejo algunas lecturas y videos que ofrecen consejos y experiencias
 - [Blog: Preguntas de entrevista de DataCamp](https://www.datacamp.com/es/blog/top-21-data-engineering-interview-questions-and-answers)
 - [Hilo: Preguntas de entrevista de @natayadev](https://x.com/natayadev/status/1806308271516430693)
 
-En proceso 😊
 
 ---
-**Si te resultó útil este repositorio, regalame una estrella ⭐**
+**Si te resultó útil este repositorio, regalame una estrella ⭐ y un cafecito ☕️**
 
 <a href="https://cafecito.app/natayadev"> <img alt="Static Badge" src="https://img.shields.io/badge/cafecito-purple?style=social&logo=buy%20me%20a%20coffee&link=https%3A%2F%2Fcafecito.app%2Fnatayafs"></a>
