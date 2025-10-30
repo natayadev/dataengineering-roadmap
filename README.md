@@ -27,7 +27,6 @@ En cada recurso encontrarás junto a la bandera de idioma un ícono de nivel rec
 
 > La mayoría de los recursos están en español, pero también se incluyen materiales originales en inglés que podrás traducir con la opción "traducir al español" en tu navegador. Además, muchos videos ofrecen subtítulos automáticos, transcripciones o  la opción de “lectura por voz”.<br>
 
----
 
 ## 📑 Índice de navegación rápida
 
@@ -42,14 +41,12 @@ En cada recurso encontrarás junto a la bandera de idioma un ícono de nivel rec
 
 > **Tip:** Si buscas por una palabra clave, usa Ctrl+F (o Cmd+F). Si eres principiante, sigue el orden propuesto arriba.
 
----
 
 ## 🚩 ¿Por dónde empiezo?
 - Si no programas aún, **empieza por Programación**.
 - Si manejas SQL, avanza a **Big Data** o **Procesamiento**.
 - ¿Te interesa una certificación? Ve a **La Nube**.
 
----
 
 > 🔍 Si tu duda ya está aquí y sigues sin encontrar la respuesta, utiliza el índice o revisa la FAQ (próximamente). ¡Recuerda que muchas preguntas frecuentes ya están abordadas en los recursos principales!
 
