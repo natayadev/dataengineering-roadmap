@@ -37,9 +37,9 @@ En cada recurso encontrarás junto a la bandera de idioma un ícono de nivel rec
 | Programación                               | Lógica, lenguajes, control de versiones | 🟢 Principiante  | [Ir](#programación)   |
 | Bases de datos                             | SQL, NoSQL, modelado                  | 🟢 Principiante  | [Ir](#bases-de-datos)   |
 | Big Data                                   | Analítica, IA, BI                     | 🟡 Intermedio  | [Ir](#big-data)        |
-| Procesamiento de Datos                     | ETL, orquestadores, pipelines          | 🔴 Avanzado  | [Ir](#procesamiento-de-datos) |
+| Procesamiento de Datos                     | ETL, orquestadores, pipelines          | 🟡 Intermedio  | [Ir](#procesamiento-de-datos) |
 | La Nube                                    | Cloud, certificaciones                 | 🔴 Avanzado  | [Ir](#cloud)   |
-| Búsqueda laboral y desafíos                | Empleo y práctica técnica              | Sugerido     | [Ir](#búsqueda-laboral)        |
+| Búsqueda laboral y desafíos                | Empleo y práctica técnica              | 🔴 Avanzado     | [Ir](#búsqueda-laboral)        |
 
 > **Tip:** Si buscas por una palabra clave, usa Ctrl+F (o Cmd+F). Si eres principiante, sigue el orden propuesto arriba.
 
