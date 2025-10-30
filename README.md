@@ -13,6 +13,8 @@
 
 [📖 Patrones de Diseño para DE en inglés](https://www.dedp.online/)
 
+[🛣️ Roadmap SH en inglés](https://roadmap.sh/data-engineer)
+
 
 ---
 
