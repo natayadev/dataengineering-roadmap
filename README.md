@@ -88,6 +88,7 @@ Recomiendo iniciar con Python debido a su curva de aprendizaje amigable y su pre
 
 - [Videos: Excel de básico a avanzado de A2 Capacitación](https://www.youtube.com/playlist?list=PLGX39GU9MAeqXIm3OYmnLg0elifUA403_)
 - [Videos: Power Query en Excel de A2 Capacitación](https://www.youtube.com/playlist?list=PLGX39GU9MAep3DgSHkVQftbArfeaIoOpe)
+- [Videos: Curso de Power Query para Excel y PBI de Microsoft Excel a Todo Nivel](https://www.youtube.com/playlist?list=PLEy6Omomtm3GrbNhOQVWKHeVtRBYdd1Vi)
 
 ### 🔄 Control de versiones con Git
 
@@ -158,8 +159,8 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 
 - [Videos: Conceptos básicos de estadística de Matemáticas Profe Alex](https://www.youtube.com/playlist?list=PLeySRPnY35dFF5D9g_zi07yPKGXui4GII)
 - [Videos: Comienza con la estadística de Datademia](https://www.youtube.com/playlist?list=PLlhVpWerA0Ky0XR-9KShajLXUHqrAQEU4)
-- [Videos: Correlaciones Estadísticas de De Código Máquina](https://www.youtube.com/playlist?list=PLat2DtY8K7YUYdJf8O30vWwqa5nCPVclo)
-- [Videos: Series de tiempo con Python de De Código Máquina](https://www.youtube.com/playlist?list=PLat2DtY8K7YU4vmmVt1CX6lF4KBUAFbMG)
+- [Videos: Correlaciones Estadísticas de Código Máquina](https://www.youtube.com/playlist?list=PLat2DtY8K7YUYdJf8O30vWwqa5nCPVclo)
+- [Videos: Series de tiempo con Python de Código Máquina](https://www.youtube.com/playlist?list=PLat2DtY8K7YU4vmmVt1CX6lF4KBUAFbMG)
 - [Videos: Series de tiempo de Codificando Bits](https://www.youtube.com/playlist?list=PL9E7H1rzXKFLGBpGE8jGKajFUd9W48mCX)
 
 ### 🤖 Inteligencia artificial 
@@ -181,6 +182,8 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 ### 📊 DataViz
 
 - [Curso: Entrenamiento en PowerBI para analistas de datos de Microsoft Learn](https://learn.microsoft.com/es-es/training/career-paths/data-analyst)
+- [Videos: Power BI Masters de POWER BI MASTERS](https://www.youtube.com/playlist?list=PLsY32GRQe9uGJNC05E2WvDnHaXjvxs2JG)
+- [Videos: Curso de Power Query para Excel y PBI de Microsoft Excel a Todo Nivel](https://www.youtube.com/playlist?list=PLEy6Omomtm3GrbNhOQVWKHeVtRBYdd1Vi)
 
 
 ## Procesamiento de Datos
@@ -203,6 +206,7 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - [Videos: Preprocesamiento de Datos en Python de Rocio Chavez](https://www.youtube.com/playlist?list=PLUofJx5RUeFqAIVdzfnJayenwZFEGtCmg)
 - [Videos: Preprocesamiento de Datos en R de Rocio Chavez](https://www.youtube.com/playlist?list=PLUofJx5RUeFqGJJxKflkhDRTot29M7CYj)
 - [Video: Pruebas A/B: Datos, no opiniones de SantanDev](https://www.youtube.com/watch?v=Yxdsu-RWsPc&list=WL&index=70&ab_channel=SantanderTec)
+- [Videos: ETL para Principiantes con Amphi de Datos A La Mexicana](https://www.youtube.com/playlist?list=PLZjnq18bumzPtFiKxS8Vk2IPtCh0B79Un)
 - Cargas incrementales
 - Colas de mensajería
 - Expresiones Cron
@@ -231,15 +235,19 @@ En esta sección está el corazón de la ingeniería de datos, veremos que son l
 - Procesamiento en tiempo real o streaming
 - Arquitecturas lambda y kappa
 - [Lectura: Diferencias clave entre el OLAP y el OLTP de AWS](https://aws.amazon.com/es/compare/the-difference-between-olap-and-oltp/)
+- [Videos: Curso de PySpark para principiantes de Errodringer](https://www.youtube.com/playlist?list=PLYFBiuYObvKB_k0bnkI41biMjD12t44GN)
 - [Video: Construye ETL en batch y streaming con Spark de Databits](https://www.youtube.com/watch?v=hvwuMCPSB3M&list=PLkNVRh-NXvLaEbeScgn1raK48gxiEj_1q&index=13&ab_channel=Databits)
-- [Lectura: Comparación de contenedores y máquinas virtuales de Atlassian](https://www.atlassian.com/es/microservices/cloud-computing/containers-vs-vms)
-- [Videos: Docker de Pelado Nerd](https://www.youtube.com/playlist?list=PLqRCtm0kbeHAep1hc7yW-EZQoAJqSTgD-)
-- [Videos: Kubernetes de Pelado Nerd](https://www.youtube.com/playlist?list=PLqRCtm0kbeHA5M_E_Anwu-vh4NWlgrOY_)
 - [Lectura: ¿Qué es un sistema distribuido? de Atlassian](https://www.atlassian.com/es/microservices/microservices-architecture/distributed-architecture)
 - [Videos: Spark de Data Engineering LATAM](https://www.youtube.com/playlist?list=PLdxuOh58KNA6CH3sQS6zhuIVKoPllmXiB)
+- [Videos: recopilatorio de tutoriales de Databricks y PySpark de Daniel Santos](https://youtube.com/playlist?list=PLnYM01KOo1Wj8cqTDO8UP98108eD0YSty&si=2irR3znTsxvHydHz)
 - [Video: Infraestructura como código para ingeniería de datos de Spark México](https://www.youtube.com/watch?v=FjB3-RS_s38&ab_channel=SparkMexico)
 - [Videos: Apache Spark de NullSafe Architect](https://www.youtube.com/playlist?list=PLwH0tlWs8nkQ-56HPCFeKsCJIStOOn_3j)
 - [Videos: Apache Kafka de NullSafe Architect](https://www.youtube.com/playlist?list=PLwH0tlWs8nkSQRxizVF5Uuu-sLVYqdjaW)
+
+### 🖥️ Contenedores
+- [Lectura: Comparación de contenedores y máquinas virtuales de Atlassian](https://www.atlassian.com/es/microservices/cloud-computing/containers-vs-vms)
+- [Videos: Docker de Pelado Nerd](https://www.youtube.com/playlist?list=PLqRCtm0kbeHAep1hc7yW-EZQoAJqSTgD-)
+- [Videos: Kubernetes de Pelado Nerd](https://www.youtube.com/playlist?list=PLqRCtm0kbeHA5M_E_Anwu-vh4NWlgrOY_)
 
 ### 🧪 Testing y DevOps
 
