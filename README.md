@@ -158,6 +158,9 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 
 - [Videos: Conceptos básicos de estadística de Matemáticas Profe Alex](https://www.youtube.com/playlist?list=PLeySRPnY35dFF5D9g_zi07yPKGXui4GII)
 - [Videos: Comienza con la estadística de Datademia](https://www.youtube.com/playlist?list=PLlhVpWerA0Ky0XR-9KShajLXUHqrAQEU4)
+- [Videos: Correlaciones Estadísticas de De Código Máquina](https://www.youtube.com/playlist?list=PLat2DtY8K7YUYdJf8O30vWwqa5nCPVclo)
+- [Videos: Series de tiempo con Python de De Código Máquina](https://www.youtube.com/playlist?list=PLat2DtY8K7YU4vmmVt1CX6lF4KBUAFbMG)
+- [Videos: Series de tiempo de Codificando Bits](https://www.youtube.com/playlist?list=PL9E7H1rzXKFLGBpGE8jGKajFUd9W48mCX)
 
 ### 🤖 Inteligencia artificial 
 
