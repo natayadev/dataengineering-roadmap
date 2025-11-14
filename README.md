@@ -157,6 +157,7 @@ Lo siguiente es entender algunos conceptos de Big Data. Además, resulta interes
 ### 🛠️ Estadística
 
 - [Videos: Conceptos básicos de estadística de Matemáticas Profe Alex](https://www.youtube.com/playlist?list=PLeySRPnY35dFF5D9g_zi07yPKGXui4GII)
+  [Videos: Comienza con la estadística de Datademia](https://www.youtube.com/playlist?list=PLlhVpWerA0Ky0XR-9KShajLXUHqrAQEU4)
 
 ### 🤖 Inteligencia artificial 
 
